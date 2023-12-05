@@ -1,0 +1,5 @@
+page-type:: [[topic]]
+- ### Permitir a un cliente probar tu producto antes de comprarlo, y siempre que puedas hacerlo en función del tipo de producto servicio vendes, es una buena idea. No sólo supone una forma de generar clientes de pago, sino también una fuente excelente de aprendizajeEl primer objetivo de las pruebas de clientes, es reducir la tasa de abandono en la adquisición y activación. El siguiente objetivo es incrementar la retención y el enganche, conseguir pagos (si aplica), y obtener testimonios de clientes favorables.El objetivo debería ser conseguir que un porcentaje notable de mis early-adoptpers complete el ciclo. Ash Maurya plantea que sea el 80%. El mundo es de los valientes. En cualquier caso lo importante es entender que este porcentaje será muy superior al que tengamos en la cabeza cuando el negocio esté funcionando a velocidad de crucero, ya que, con todas las ocasiones en las que has hablado con ellos, esperemos que hayas sido capaz de generar un interés especial
+
+
+

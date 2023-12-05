@@ -1,0 +1,2 @@
+color:: lightgrey
+icon:: 🔲

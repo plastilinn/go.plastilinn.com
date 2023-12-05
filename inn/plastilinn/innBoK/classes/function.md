@@ -1,0 +1,13 @@
+color:: blue
+icon:: 👔
+innbok-type:: [[class]]
+alias:: functions
+
+- ### Definition 
+  - "function" refers to the specific role or purpose that a particular element or component serves within the overall business model. It can refer to the activities, tasks, or operations that a specific part of the business model performs to deliver value to customers and generate revenue. For example, the function of a sales team may be to identify and acquire new customers, while the function of a production department may be to manufacture and deliver products.
+- ### Sample list
+  - [How to copy this list]([[plastilinn/Copy block]])
+  - {{embed [[function/list]]}}
+
+
+

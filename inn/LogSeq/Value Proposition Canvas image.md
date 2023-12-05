@@ -1,0 +1,1 @@
+- ![value_proposition_designer_draft.jpg](../../../../assets/value_proposition_designer_draft_1680993099071_0.jpg)

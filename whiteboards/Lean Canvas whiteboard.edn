@@ -1,0 +1,214 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6527bc60-abba-4df3-a72b-c32363573afe"}
+:block/parent 
+{:block/uuid #uuid "6527bc60-abba-4df3-a72b-c32363573afe"}
+:block/properties 
+{}
+:block/uuid #uuid "652664f6-d28c-49eb-a9cc-a4e1af727f26"} 
+{:block/created-at 1697015047828
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6525869c-b421-4f6d-9d03-41902c06692d"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 262.1875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1e235ce0-6815-11ee-9ff4-9381959737d1"
+:noFill false
+:isLocked false
+:point [552 224]
+:parentId "65266454-bca9-49ec-a954-82a414784884"
+:collapsedHeight 0
+:nonce 1697015040451}}
+:block/updated-at 1697015047828} 
+{:block/created-at 1697015099235
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6525869c-b4f6-4025-b755-0f8cdfcd43bb"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 317.1875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2cb1b630-6815-11ee-9ff4-9381959737d1"
+:noFill false
+:isLocked false
+:point [120 224]
+:parentId "65266454-bca9-49ec-a954-82a414784884"
+:collapsedHeight 0
+:nonce 1697015065089}}
+:block/updated-at 1697015099235} 
+{:block/created-at 1697015099238
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2cb20450-6815-11ee-9ff4-9381959737d1"
+:fontWeight 400
+:noFill true
+:point [524 367.89]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [27 0]
+:bindingId "2cb20451-6815-11ee-9ff4-9381959737d1"}
+:end 
+{:id "end"
+:canBind true
+:point [0 1.72]
+:bindingId "2cb20452-6815-11ee-9ff4-9381959737d1"}}
+:decorations 
+{:end "arrow"}
+:parentId "65266454-bca9-49ec-a954-82a414784884"
+:nonce 1697015064884
+:italic false}}
+:block/updated-at 1697015099238} 
+{:block/created-at 1697015158387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "test segment/profile 1/value/content"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 115]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4c010040-6815-11ee-9ff4-9381959737d1"
+:noFill false
+:isLocked false
+:point [-304 224]
+:parentId "65266454-bca9-49ec-a954-82a414784884"
+:collapsedHeight 0
+:nonce 1697015117508}}
+:block/updated-at 1697015158387} 
+{:block/created-at 1697015158390
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4c012750-6815-11ee-9ff4-9381959737d1"
+:fontWeight 400
+:noFill true
+:point [100 330.14]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [19 4.53]
+:bindingId "4c012751-6815-11ee-9ff4-9381959737d1"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "4c012752-6815-11ee-9ff4-9381959737d1"}}
+:decorations 
+{:end "arrow"}
+:parentId "65266454-bca9-49ec-a954-82a414784884"
+:nonce 1697015117418
+:italic false}}
+:block/updated-at 1697015158390})
+:pages (
+{:block/uuid #uuid "6527bc60-abba-4df3-a72b-c32363573afe"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65266454-bca9-49ec-a954-82a414784884"
+:name "lean canvas whiteboard"
+:bindings 
+{:2cb20451-6815-11ee-9ff4-9381959737d1 
+{:id "2cb20451-6815-11ee-9ff4-9381959737d1"
+:type "line"
+:fromId "2cb20450-6815-11ee-9ff4-9381959737d1"
+:toId "1e235ce0-6815-11ee-9ff4-9381959737d1"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2cb20452-6815-11ee-9ff4-9381959737d1 
+{:id "2cb20452-6815-11ee-9ff4-9381959737d1"
+:type "line"
+:fromId "2cb20450-6815-11ee-9ff4-9381959737d1"
+:toId "2cb1b630-6815-11ee-9ff4-9381959737d1"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4c012751-6815-11ee-9ff4-9381959737d1 
+{:id "4c012751-6815-11ee-9ff4-9381959737d1"
+:type "line"
+:fromId "4c012750-6815-11ee-9ff4-9381959737d1"
+:toId "2cb1b630-6815-11ee-9ff4-9381959737d1"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4c012752-6815-11ee-9ff4-9381959737d1 
+{:id "4c012752-6815-11ee-9ff4-9381959737d1"
+:type "line"
+:fromId "4c012750-6815-11ee-9ff4-9381959737d1"
+:toId "4c010040-6815-11ee-9ff4-9381959737d1"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("1e235ce0-6815-11ee-9ff4-9381959737d1" "2cb1b630-6815-11ee-9ff4-9381959737d1" "2cb20450-6815-11ee-9ff4-9381959737d1" "4c010040-6815-11ee-9ff4-9381959737d1" "4c012750-6815-11ee-9ff4-9381959737d1")}}
+:block/journal? false
+:block/updated-at 1697015158387
+:block/created-at 1697014868530
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "lean canvas whiteboard"
+:block/original-name "Lean Canvas whiteboard"})}

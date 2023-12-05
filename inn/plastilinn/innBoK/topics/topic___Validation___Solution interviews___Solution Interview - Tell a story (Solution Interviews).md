@@ -1,0 +1,5 @@
+page-type:: [[topic]]
+- ### Establece el contexto del problema (dos minutos)“Déjame contarte acerca de los problemas que estamos intentando resolver. Cuando tenemos hijos hacemos muchas fotos constantemente, al igual que videos. También tenemos solicitudes frecuentes de los abuelos y otros miembros de la familia para que compartamos con ellos estas fotos y videos. El proceso de compartir estas fotos y vdeos es demasiado intensivo en tiempo. Tenemos que organizar los ficheros, editarlos y estar presentes durante el proceso de subida al al servidor que utilicemos. Con el video, a veces tenemos que convertirlo otros formatos. Si a esto sumamos que como padres tenemos menos tiempo que antes de tener hijos y valoramos mucho más nuestro tiempo libre, preferiríamos emplear nuestro tiempo en otras cosas. ¿Te suena estos esta situación?”Lo lógico sería que a la mayor parte de las personas a las que entrevistes en entrevistas de solución reconozcan que efectivamente es un problema que tienen. Si no fuera así, tal vez deberíamos volver a pensar si estamos resolviendo un problema adecuado.
+
+
+

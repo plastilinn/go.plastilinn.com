@@ -1,0 +1,5 @@
+page-type:: [[topic]]
+- ### Se trata de realizar interacciones rápidas con mis clientes para ir construyendo versiones incrementales de mi producto que me permitan validar que voy por el buen camino al ponerlas enfrente de nuestros clientes.En la forma tradicional de afrontar el desarrollo de un producto la mayor parte del aprendizaje tiene lugar durante la toma de requisitos inicial y una vez se realiza la entrega del producto y los clientes comienzan a usarlos. Es muy importante huir de esta aproximación, mediante la cual construimos un producto perfecto, con todas las características que podría desear un usuario y meses e incluso años más tarde sacamos una primera versión.[presentación de MVP]Lo primero es diseñar nuestro Producto Mínimo Viable de forma que incluya sólo las características que son totalmente necesarias para resolver los problemas que hemos detectado que tienen nuestros clientes. Cuanto más ligera sea la primera versión del Producto Mínimo Viable, más rápido podremos lanzarlo y ponerlo delante de nuestros clientes para validar que vamos por el camino correcto.
+
+
+

@@ -1,0 +1,5 @@
+page-type:: [[topic]]
+- ### Lo que te digan tus consejeros o clientes potenciales son sólo opiniones, que además muchas veces seran contradictorias entre sí. Uno de los peores errores que puede cometer un emprendedor es tratar de aplicar todos los consejos que ha recibido. Las opiniones son sólo un conjunto de ideas que le vienen a la cabeza a los entrevistados sin pasar ningún filtro, y es responsabilidad del emprendedor destilar a aquellas útiles de aquellas que no lo son. Hay que tener siempre en cuenta que muchos de los consejos se emiten después de haber descrito el proyecto al entrevistado en un par de minutos. Muchas veces (especialmente si el proyecto es complejo y todavía no lo explicamos muy bien) es posible que la capacidad de nuestro interlocutor para entender de qué le hablamos sea similar a la de Justin Bieber para entender la Teoría del Entrelazamiento Cuántico si se la explicamos gesticulando. Seguramente sus consejos serían distintos si se conocieran más en profundidad los detalles del negocio.
+
+
+

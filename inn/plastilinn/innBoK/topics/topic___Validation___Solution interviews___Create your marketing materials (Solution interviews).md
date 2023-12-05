@@ -1,0 +1,5 @@
+page-type:: [[topic]]
+- ### Los materiales de marketing son una de las principales formas a través de las que vas hacer llegar tu propuesta de valor a los clientes potenciales. Veamos cómo crear una página web que transmita la propuesta de forma eficiente (aunque aplica también a otros materiales como folletos, anuncios en prensa, anuncios en televisión, etc...)Para entender cómo deben funcionar los materiales de marketing, describiremos un embudo en el que van entrando oportunidades en forma de clientes desinformados, y a través del proceso de ventas se va convirtiendo un porcentaje de ellos en clientes que pagan. También se definen hitos intermedios que sitúan a los prospectos más o menos cerca del evento final de venta. Cada canal tiene su embudo propio.El objetivo de nuestra página web es conseguir que los visitantes se conviertan en prospectos interesados. Y todo ello rápidamente,. No esperes que tus clientes dediquen demasiado tiempo a leer en tu página . Por eso es importante tener la propuesta de valor bien destilada, ya que es el punto de partida para generar curiosidad y que sigan_informando se acerca a nuestro producto.
+
+
+

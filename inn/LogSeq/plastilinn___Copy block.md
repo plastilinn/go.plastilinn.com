@@ -1,0 +1,5 @@
+- **Open the block you want to copy**: Navigate to the block you wish to copy in Logseq.
+- **Access the block menu**: Hover over the block to reveal the bullet point on the left side. Click on the bullet point to open the block menu.
+- **Choose "Copy Export"**: In the block menu, there is an option labeled "Copy / Export as". Click on this option.
+- **Select the desired format**: Logseq may provide you with multiple formats to export the block, such as plain text, markdown, or others. Choose "plain text" and click on the "Copy to clipboard" button at the bottom-left.
+- **Paste the copied block**: After copying, you can paste the block wherever you need it.

@@ -1,0 +1,4 @@
+alias::  prompts
+icon:: 🤖
+
+-

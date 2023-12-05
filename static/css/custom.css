@@ -1,0 +1,316 @@
+/* innBoK classes css */
+a[data-ref="key"] { position: relative; padding-left: 25px; } a[data-ref="key"]::before { content: "🔑"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="organization"] { position: relative; padding-left: 25px; } a[data-ref="organization"]::before { content: "🏢"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="journey"] { position: relative; padding-left: 25px; } a[data-ref="journey"]::before { content: "✈️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="assumption"] { position: relative; padding-left: 25px; } a[data-ref="assumption"]::before { content: "🔮"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="solution"] { position: relative; padding-left: 25px; } a[data-ref="solution"]::before { content: "💊"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="offering"] { position: relative; padding-left: 25px; } a[data-ref="offering"]::before { content: "🛍️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="work"] { position: relative; padding-left: 25px; } a[data-ref="work"]::before { content: "⚙️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="metric"] { position: relative; padding-left: 25px; } a[data-ref="metric"]::before { content: "📐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="asset"] { position: relative; padding-left: 25px; } a[data-ref="asset"]::before { content: "⭐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="revenue"] { position: relative; padding-left: 25px; } a[data-ref="revenue"]::before { content: "💰"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segmentation"] { position: relative; padding-left: 25px; } a[data-ref="segmentation"]::before { content: "✂️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segment"] { position: relative; padding-left: 25px; } a[data-ref="segment"]::before { content: "🙋"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segment"] { position: relative; padding-left: 25px; } a[data-ref="segment"]::before { content: "🙋"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="value"] { position: relative; padding-left: 25px; } a[data-ref="value"]::before { content: "💎"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="channel"] { position: relative; padding-left: 25px; } a[data-ref="channel"]::before { content: "🎙️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="cost"] { position: relative; padding-left: 25px; } a[data-ref="cost"]::before { content: "💸"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="emotion"] { position: relative; padding-left: 25px; } a[data-ref="emotion"]::before { content: "😐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="message"] { position: relative; padding-left: 25px; } a[data-ref="message"]::before { content: "📣"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="feature"] { position: relative; padding-left: 25px; } a[data-ref="feature"]::before { content: "🌟"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="function"] { position: relative; padding-left: 25px; } a[data-ref="function"]::before { content: "👔"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="goal"] { position: relative; padding-left: 25px; } a[data-ref="goal"]::before { content: "🎯"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="hypothesis"] { position: relative; padding-left: 25px; } a[data-ref="hypothesis"]::before { content: "🔎"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="person"] { position: relative; padding-left: 25px; } a[data-ref="person"]::before { content: "👤"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="transaction"] { position: relative; padding-left: 25px; } a[data-ref="transaction"]::before { content: "🛒"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="risk"] { position: relative; padding-left: 25px; } a[data-ref="risk"]::before { content: "🚨"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="experiment"] { position: relative; padding-left: 25px; } a[data-ref="experiment"]::before { content: "🧪"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="question"] { position: relative; padding-left: 25px; } a[data-ref="question"]::before { content: "💭"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="insight"] { position: relative; padding-left: 25px; } a[data-ref="insight"]::before { content: "💡"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="position"] { position: relative; padding-left: 25px; } a[data-ref="position"]::before { content: "🪪"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="skill"] { position: relative; padding-left: 25px; } a[data-ref="skill"]::before { content: "🔧"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="phase"] { position: relative; padding-left: 25px; } a[data-ref="phase"]::before { content: "🗓️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="milestone"] { position: relative; padding-left: 25px; } a[data-ref="milestone"]::before { content: "🏁"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="role"] { position: relative; padding-left: 25px; } a[data-ref="role"]::before { content: "🎩"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="stakeholder"] { position: relative; padding-left: 25px; } a[data-ref="stakeholder"]::before { content: "👀"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="persona"] { position: relative; padding-left: 25px; } a[data-ref="persona"]::before { content: "👩‍💼"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="topic"] { position: relative; padding-left: 25px; } a[data-ref="topic"]::before { content: "🗄️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="resource"] { position: relative; padding-left: 25px; } a[data-ref="resource"]::before { content: "🖥️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="artifact"] { position: relative; padding-left: 25px; } a[data-ref="artifact"]::before { content: "🧿"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="unit"] { position: relative; padding-left: 25px; } a[data-ref="unit"]::before { content: "📓"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="content"] { position: relative; padding-left: 25px; } a[data-ref="content"]::before { content: "📘"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="AI"] { position: relative; padding-left: 25px; } a[data-ref="AI"]::before { content: "🤖"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="help"] { position: relative; padding-left: 25px; } a[data-ref="help"]::before { content: "🛎️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+
+/* innBoK markers css */
+a[data-ref="*"] { position: relative; padding-left: 25px; } a[data-ref="*"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="**"] { position: relative; padding-left: 25px; } a[data-ref="**"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="***"] { position: relative; padding-left: 25px; } a[data-ref="***"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="****"] { position: relative; padding-left: 25px; } a[data-ref="****"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="*****"] { position: relative; padding-left: 25px; } a[data-ref="*****"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="?"] { position: relative; padding-left: 25px; } a[data-ref="?"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="??"] { position: relative; padding-left: 25px; } a[data-ref="??"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="???"] { position: relative; padding-left: 25px; } a[data-ref="???"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="????"] { position: relative; padding-left: 25px; } a[data-ref="????"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="?????"] { position: relative; padding-left: 25px; } a[data-ref="?????"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="="] { position: relative; padding-left: 25px; } a[data-ref="="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="=="] { position: relative; padding-left: 25px; } a[data-ref="=="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="==="] { position: relative; padding-left: 25px; } a[data-ref="==="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="===="] { position: relative; padding-left: 25px; } a[data-ref="===="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="====="] { position: relative; padding-left: 25px; } a[data-ref="====="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+"] { position: relative; padding-left: 25px; } a[data-ref="+"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="++"] { position: relative; padding-left: 25px; } a[data-ref="++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+++"] { position: relative; padding-left: 25px; } a[data-ref="+++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="++++"] { position: relative; padding-left: 25px; } a[data-ref="++++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+++++"] { position: relative; padding-left: 25px; } a[data-ref="+++++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="-"] { position: relative; padding-left: 25px; } a[data-ref="-"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="--"] { position: relative; padding-left: 25px; } a[data-ref="--"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="---"] { position: relative; padding-left: 25px; } a[data-ref="---"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="----"] { position: relative; padding-left: 25px; } a[data-ref="----"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="-----"] { position: relative; padding-left: 25px; } a[data-ref="-----"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@"] { position: relative; padding-left: 25px; } a[data-ref="@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@"] { position: relative; padding-left: 25px; } a[data-ref="@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="p"] { position: relative; padding-left: 25px; } a[data-ref="p"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="pp"] { position: relative; padding-left: 25px; } a[data-ref="pp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="ppp"] { position: relative; padding-left: 25px; } a[data-ref="ppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="pppp"] { position: relative; padding-left: 25px; } a[data-ref="pppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="ppppp"] { position: relative; padding-left: 25px; } a[data-ref="ppppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!"] { position: relative; padding-left: 25px; } a[data-ref="!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!"] { position: relative; padding-left: 25px; } a[data-ref="!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+
+
+.ls-block[data-refs-self*='"item"'] {
+    padding: 8px 0;
+    margin: 4px 0 0 0;
+    border: 1px solid grey;
+    border-width: 1px 1px 1px 4px;
+    border-radius: 5px;
+    background-color: CoolGray;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"artifact"'] {
+    padding: 8px 0!important;
+    margin: 4px 0 0 0!important;
+    border: 1px solid navy!important;
+    border-width: 1px 1px 1px 4px!important;
+    border-radius: ;
+    background-color: LightSteelBlue;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"keys"'] {
+    padding: 8px 0;
+    margin: 4px 0 0 0;
+    border: 1px solid red;
+    border-width: 1px 1px 1px 4px;
+    border-radius: 5px;
+    background-color: mistyrose;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"key"'] {
+    padding: 2px 0;
+    margin: 2px 2px 2px 2px;
+    border: 1px solid LightGray;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 5px;
+    font-family: courier, courier new, serif
+    cursor: text;
+}
+
+.ls-block[data-refs-self*='"ai"'] {
+    padding: 8px 0;
+    margin: 4px 0 0 0;
+    border: 1px solid purple;
+    border-width: 1px 1px 1px 4px;
+    border-radius: 5px;
+    background-color: lavender;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"🔖"'] {
+    padding: 2px 0;
+    margin: 2px 2px 2px 2px;
+    border: 1px solid LightGray;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 5px;
+    font-family: courier, courier new, serif
+    cursor: text;
+}
+
+.ls-block[data-refs-self*='"off"'] {
+  color: grey;
+}
+
+
+/* Estilo para el contenedor del campo de entrada */
+.ls-block[data-refs-self*='"placeholder"'] {
+  color: grey;
+}
+
+.ls-block[data-refs-self*='"inn-edit"'] {
+  background-color: #F5F5F5; /* Color de fondo claro */
+  color: #333; /* Color de texto oscuro */
+  padding: 10px; /* Relleno alrededor del texto */
+  width: 100%; /* Ancho del div */
+  height: 500px; /* Altura del div */
+  border: 1px solid #CCC; /* Borde sólido */
+  border-radius: 4px; /* Esquinas redondeadas */
+  box-sizing: border-box; /* Asegura que el padding y el borde no afecten las dimensiones del div */
+  overflow-y: auto; /* Añade una barra de desplazamiento vertical si el contenido es demasiado largo */
+  white-space: pre-wrap; /* Conserva los espacios y saltos de línea */
+  font-family: 'Courier New', Courier, monospace; /* Fuente similar a la de un editor de código */
+  box-shadow: inset 2px 2px 2px 2px LightGray;
+}
+
+.ls-block[data-refs-self*='"inn-edit"'] .th {
+  display: none
+}
+
+.ls-block[data-refs-self*='"inn-copy"'] {
+  background-color: #F5F5F5; /* Color de fondo claro */
+  color: #333; /* Color de texto oscuro */
+  padding: 10px; /* Relleno alrededor del texto */
+  width: 100%; /* Ancho del div */
+  height: 200px; /* Altura del div */
+  border: 1px solid #CCC; /* Borde sólido */
+  border-radius: 4px; /* Esquinas redondeadas */
+  box-sizing: border-box; /* Asegura que el padding y el borde no afecten las dimensiones del div */
+  overflow-y: auto; /* Añade una barra de desplazamiento vertical si el contenido es demasiado largo */
+  white-space: pre-wrap; /* Conserva los espacios y saltos de línea */
+  font-family: 'Courier New', Courier, monospace; /* Fuente similar a la de un editor de código */
+  box-shadow: inset 2px 2px 2px 2px LightGray;
+}
+
+.ls-block[data-refs-self*='"🛎️"'] {
+  border: 1px solid LightGray; 
+  background: white;
+  margin: 8px;
+}
+
+.ls-block[data-refs-self*='"🧭"'] {
+  border: 1px solid LightGray; 
+  background: white;
+  margin: 8px;
+}
+
+.ls-block[data-refs-self*='"🗂️"'] {
+  border: 1px solid LightGray; 
+  background: #F7F7F7;
+  margin: 8px;
+}
+
+.ls-block[data-refs-self*='"menu"'] span {
+  margin: 2px;
+}
+
+/* hide embed headers */
+.embed-header {
+  display: none;
+}
+
+/* hide hierarchy */
+.page-hierarchy {
+  display: none;
+}
+
+/* https://discuss.logseq.com/t/block-background-color-setting-specific/8980/2 */
+.ls-block[data-refs-self*='"artifact"'].ls-block[data-refs-self*='"guide-item"'] {
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-left: 4px solid navy;
+    background-color: LightSteelBlue;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"topic"'].ls-block[data-refs-self*='"guide-item"'] {
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-color: 4px solid LightGray;
+    border-top: 1px solid LightGray;
+    border-bottom: 1px solid LightGray;
+    border-left: 1px solid LightGray;
+    border-right: 1px solid LightGray;
+    background-color: WhiteSmoke;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"resource"'].ls-block[data-refs-self*='"guide-item"'] {
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-left: 4px solid DarkGray;
+    background-color: OldLace;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"unit"'] {
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-color: 4px solid LightGray;
+    border-top: 1px solid LightGray;
+    border-bottom: 1px solid LightGray;
+    border-left: 1px solid LightGray;
+    border-right: 1px solid LightGray;
+    transform: translateX(-4px);
+}
+
+/* task management */
+.todo {
+    opacity: 0.3;
+}
+.doing {
+    color: navy;
+}
+h1.done, h2.done, h3.done, h4.done, h5.done, h6.done {
+    text-decoration: none; 
+}
+.done {
+    color: navy;
+    opacity: 1;
+}
+
+/* https://discuss.logseq.com/t/better-visual-signposting-of-collapsed-blocks/21232/3 */
+
+.bullet-container:not(.typed-list).bullet-closed {
+    background: rgba(0, 0, 128, 0.4);
+}
+
+
+/* https://discuss.logseq.com/t/block-properties-ui-auto-hiding-revealing-on-hover/20631/3 */
+
+/* https://discuss.logseq.com/t/minimal-style-for-some-queries/15050 */
+
+[data-refs-self*="minimal-query"] .custom-query > .flex > .content {
+    display: none;
+}
+
+[data-refs-self*="minimal-query"] .custom-query .fade-link {
+    display: none;
+}
+
+[data-refs-self*="minimal-query"] .custom-query .initial > div > .flex.flex-row .ui__toggle {
+    display: none;
+}
+
+[data-refs-self*="minimal-query"] .custom-query {
+    margin-top: 0;
+}
+
+[data-refs-self*="minimal-query"] .custom-query .initial>div>.flex.flex-row {
+    margin-top: 0;
+}
+
+a.tag[data-ref*="minimal-query"] {
+    display: none;
+}

@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/funnel]]
 relations:: [[profile (id)]] [[profile (id)/journey]] [[profile id___sales strategy]]

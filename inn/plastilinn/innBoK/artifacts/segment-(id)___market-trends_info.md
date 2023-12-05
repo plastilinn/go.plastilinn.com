@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/market-trends]]
 relations:: [[segment (id)]] [[]]

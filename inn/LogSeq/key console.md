@@ -1,3 +1,5 @@
+icon:: 🔑
+
 -
 - #key 💰95 [[business/Business Model Viability]] > [[business]] [[++]]
   inn-block-type:: #{"{"}

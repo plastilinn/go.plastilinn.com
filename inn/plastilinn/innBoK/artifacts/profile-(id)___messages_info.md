@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/messages]]
 item-classes:: #[[message]]

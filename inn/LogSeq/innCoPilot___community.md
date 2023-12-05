@@ -1,6 +1,8 @@
 color:: grey
+#+BEGIN_WARNING
+Muy pronto
+#+END_WARNING
 
--
 - Servidor de Discord que te permitirá:
 	- Hacer preguntas Sobre el funcionamiento de innCoPilot y obtener respuestas
 	- Apuntarte a grupos de innovadores en áreas o con proyectos similares al tuyo y compartir conocimiento

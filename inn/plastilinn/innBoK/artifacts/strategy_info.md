@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[strategy]]
 relations:: [[organization goals]] [[mission]] [[vision]]

@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)]]
 relations:: [[business]] [[opportunity]]

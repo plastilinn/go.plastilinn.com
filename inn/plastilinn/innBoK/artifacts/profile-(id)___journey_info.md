@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/journey]]
 relations:: [[profile (id)]] [[profile id___segmentation]] [[profile (id)/transactions]]

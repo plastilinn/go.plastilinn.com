@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/brochure]]
 relations:: [[solution (id)]] [[solution (id)/features]] [[solution (id)/offerings]]

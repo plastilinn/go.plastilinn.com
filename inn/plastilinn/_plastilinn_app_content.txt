@@ -3244,6 +3244,7 @@ innBoK\artifacts\innBoK___artifacts___info.md
 
 
 innBoK\artifacts\my-business_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[my-business]]
 relations:: [[]]
@@ -3371,6 +3372,7 @@ weight:: 90
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Analiza las claves de tu modelo de negocio]]}}
   
 innBoK\artifacts\business-idea_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-idea]]
 relations:: [[]]
@@ -3416,6 +3418,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\opportunity_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[opportunity]]
 relations:: [[]]
@@ -3465,6 +3468,7 @@ weight:: 40
       - {{embed [[topic/Idea/Business opportunity]]}}
   
 innBoK\artifacts\business-state_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-state]]
 relations:: [[]]
@@ -3493,6 +3497,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\challenges_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[challenges]]
 relations:: [[]]
@@ -3521,6 +3526,7 @@ weight:: 65
 - ## Topics
   
 innBoK\artifacts\inspiration_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[inspiration]]
 relations:: [[]]
@@ -3549,6 +3555,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\unfair-advantage_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[unfair-advantage]]
 relations:: [[]]
@@ -3580,6 +3587,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\business-objectives_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-objectives]]
 relations:: [[opportunity]]
@@ -3609,6 +3617,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\mission_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[mission]]
 relations:: [[business objectives]]
@@ -3640,6 +3649,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\vision_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[vision]]
 relations:: [[business objectives]]
@@ -3671,6 +3681,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\strategy_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[strategy]]
 relations:: [[organization goals]] [[mission]] [[vision]]
@@ -3706,6 +3717,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\organization-values_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[organization-values]]
 relations:: [[business objectives]]
@@ -3734,6 +3746,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\organization-goals_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[organization-goals]]
 item-classes:: #[[goal]]
@@ -3767,6 +3780,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\stakeholders_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[stakeholders]]
 item-classes:: #[[segment]]
@@ -3809,6 +3823,7 @@ weight:: 80
         - {{embed [[MIT Entrepreneurship Lesson What Do You Need to Start a Business]]}}
     
 innBoK\artifacts\segment-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-list]]
 relations:: [[]]
@@ -3840,6 +3855,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\segment-(id)_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)]]
 relations:: [[]]
@@ -3883,6 +3899,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\segment-(id)___segmentation-criteria_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/segmentation-criteria]]
 item-classes:: #[[segmentation]]
@@ -3916,6 +3933,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\segment-(id)___market-size_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/market-size]]
 relations:: [[segment (id)]] [[]]
@@ -3947,6 +3965,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\segment-(id)___market-trends_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/market-trends]]
 relations:: [[segment (id)]] [[]]
@@ -3978,6 +3997,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\segment-(id)___partners_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/partners]]
 item-classes:: #[[stakeholder]]
@@ -4016,6 +4036,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\segment-(id)___competition_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/competition]]
 item-classes:: #[[stakeholder]]
@@ -4054,6 +4075,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\segment-(id)___roles_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/roles]]
 item-classes:: #[[role]]
@@ -4087,6 +4109,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\segment-(id)___profiles_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/profiles]]
 item-classes:: #[[profile]]
@@ -4120,6 +4143,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\profile-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-list]]
 relations:: [[]]
@@ -4148,6 +4172,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\profile-(id)_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)]]
 relations:: [[]]
@@ -4179,6 +4204,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\profile-(id)___segmentation_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/segmentation]]
 item-classes:: #[[segmentation]]
@@ -4212,6 +4238,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\profile-(id)___persona_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/persona]]
 relations:: [[profile (id)]] [[profile (id)/segmentation]] [[profile (id)/goals]] [[profile (id)/emotions]]
@@ -4240,6 +4267,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\profile-(id)___goals_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/goals]]
 item-classes:: #[[goal]]
@@ -4280,6 +4308,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\profile-(id)___perceptions_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/perceptions]]
 item-classes:: #[[perception]]
@@ -4313,6 +4342,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\profile-(id)___emotions_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/emotions]]
 item-classes:: #[[emotion]]
@@ -4346,6 +4376,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\profile-(id)___value-proposition_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/value-proposition]]
 item-classes:: #[[value]]
@@ -4382,6 +4413,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\profile-(id)___quantified-value-proposition_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/quantified-value-proposition]]
 relations:: [[profile (id)]] [[profile (id)/value proposition]] [[profile (id)/segmentation]] [[profile (id)/goals]]
@@ -4410,6 +4442,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\profile-(id)___relationship_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/relationship]]
 item-classes:: #[[relationship]]
@@ -4444,6 +4477,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\profile-(id)___messages_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/messages]]
 item-classes:: #[[message]]
@@ -4477,6 +4511,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\profile-(id)___channels_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/channels]]
 item-classes:: #[[channel]]
@@ -4511,6 +4546,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\profile-(id)___assets_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/assets]]
 item-classes:: #[[asset]]
@@ -4544,6 +4580,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\profile-(id)___transactions_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/transactions]]
 item-classes:: #[[transaction]]
@@ -4577,6 +4614,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\profile-(id)___journey_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/journey]]
 relations:: [[profile (id)]] [[profile id___segmentation]] [[profile (id)/transactions]]
@@ -4605,6 +4643,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\profile-(id)___funnel_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/funnel]]
 relations:: [[profile (id)]] [[profile (id)/journey]] [[profile id___sales strategy]]
@@ -4633,6 +4672,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\profile-(id)___sales-strategy_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/sales-strategy]]
 relations:: [[profile (id)]] [[profile id___segmentation]] [[profile (id)/channels]] [[profile (id)/transactions]]
@@ -4664,6 +4704,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\solution-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-list]]
 item-classes:: #[[solution]]
@@ -4704,6 +4745,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\solution-(id)_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)]]
 relations:: [[business]] [[opportunity]]
@@ -4749,6 +4791,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\solution-(id)___category_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/category]]
 relations:: [[solution (id)]] [[]]
@@ -4777,6 +4820,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\solution-(id)___components_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/components]]
 relations:: [[solution (id)]] [[solution id___category]] [[solution id___features]] [[solution id___roadmap]]
@@ -4806,6 +4850,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\solution-(id)___features_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/features]]
 item-classes:: #[[feature]]
@@ -4840,6 +4885,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\solution-(id)___roadmap_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/roadmap]]
 relations:: [[solution (id)]] [[solution (id)/category]] [[solution (id)/features]]
@@ -4869,6 +4915,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\solution-(id)___offerings_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/offerings]]
 item-classes:: #[[offering]]
@@ -4903,6 +4950,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\solution-(id)___pricing_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/pricing]]
 relations:: [[solution (id)]] [[solution (id)/offerings]] [[solution (id)/features]] [[solution (id)/category]]
@@ -4934,6 +4982,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\solution-(id)___brochure_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/brochure]]
 relations:: [[solution (id)]] [[solution (id)/features]] [[solution (id)/offerings]]
@@ -4963,6 +5012,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\marketing_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[marketing]]
 relations:: [[]]
@@ -5002,6 +5052,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\naming_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[naming]]
 relations:: [[]]
@@ -5037,6 +5088,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\branding_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[branding]]
 relations:: [[]]
@@ -5065,6 +5117,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\visual-identity_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[visual-identity]]
 relations:: [[]]
@@ -5093,6 +5146,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\logo_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[logo]]
 relations:: [[]]
@@ -5121,6 +5175,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\marketing-plan_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[marketing-plan]]
 relations:: [[]]
@@ -5149,6 +5204,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\operations_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[operations]]
 relations:: [[business]]
@@ -5186,6 +5242,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\activitiy-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[activitiy-list]]
 item-classes:: #[[work]]
@@ -5219,6 +5276,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\function-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[function-list]]
 item-classes:: #[[function]]
@@ -5252,6 +5310,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\resource-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[resource-list]]
 item-classes:: #[[asset]]
@@ -5288,6 +5347,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\metric-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[metric-list]]
 item-classes:: #[[metric]]
@@ -5324,6 +5384,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\life-time-value_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[life-time-value]]
 relations:: [[]]
@@ -5352,6 +5413,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\customer-aquisition-cost_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[customer-aquisition-cost]]
 relations:: [[]]
@@ -5380,6 +5442,7 @@ weight:: 60
 - ## Topics
   
 innBoK\artifacts\team_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[team]]
 relations:: [[]]
@@ -5431,6 +5494,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\people_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[people]]
 item-classes:: #[[person]]
@@ -5477,6 +5541,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\person-(id)_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)]]
 relations:: [[]]
@@ -5508,6 +5573,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\person-(id)___skills_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/skills]]
 item-classes:: #[[skill]]
@@ -5541,6 +5607,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\person-(id)___functions_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/functions]]
 item-classes:: #[[function]]
@@ -5574,6 +5641,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\person-(id)___inputs_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/inputs]]
 relations:: [[person (id)]] [[]]
@@ -5602,6 +5670,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\person-(id)___outputs_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/outputs]]
 relations:: [[person (id)]] [[]]
@@ -5630,6 +5699,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\founders_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[founders]]
 item-classes:: #[[person]]
@@ -5672,6 +5742,7 @@ weight:: 70
 - ## Topics
   
 innBoK\artifacts\position-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[position-list]]
 item-classes:: #[[position]]
@@ -5705,6 +5776,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\finance_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[finance]]
 relations:: [[business]] [[activitiy list]]
@@ -5744,6 +5816,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\revenue-lines_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[revenue-lines]]
 item-classes:: #[[revenue]]
@@ -5780,6 +5853,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\cost-lines_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[cost-lines]]
 item-classes:: #[[cost]]
@@ -5816,6 +5890,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\unit-economics_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[unit-economics]]
 relations:: [[]]
@@ -5845,6 +5920,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\funding-strategy_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[funding-strategy]]
 relations:: [[]]
@@ -5876,6 +5952,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\funding-sources_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[funding-sources]]
 relations:: [[]]
@@ -5904,6 +5981,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\capital-structure_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[capital-structure]]
 relations:: [[]]
@@ -5933,6 +6011,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\cap-table_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[cap-table]]
 relations:: [[]]
@@ -5961,6 +6040,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\finantial-projections_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[finantial-projections]]
 relations:: [[]]
@@ -5990,6 +6070,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\cashflow-projections_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[cashflow-projections]]
 relations:: [[]]
@@ -6019,6 +6100,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\legal_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[legal]]
 relations:: [[]]
@@ -6064,6 +6146,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\legal-issues_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[legal-issues]]
 relations:: [[]]
@@ -6092,6 +6175,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\contract-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[contract-list]]
 relations:: [[]]
@@ -6121,6 +6205,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\project-plan_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[project-plan]]
 relations:: [[]]
@@ -6164,6 +6249,7 @@ weight:: 30
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Diseño/Trabajo]]}}
   
 innBoK\artifacts\phases_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[phases]]
 item-classes:: #[[phase]]
@@ -6197,6 +6283,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\milestones_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[milestones]]
 item-classes:: #[[milestone]]
@@ -6230,6 +6317,7 @@ weight:: 40
 - ## Topics
   
 innBoK\artifacts\communication_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[communication]]
 relations:: [[]]
@@ -6258,6 +6346,7 @@ weight:: 30
 - ## Topics
   
 innBoK\artifacts\pitch_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[pitch]]
 relations:: [[]]
@@ -6286,6 +6375,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\business-brochure_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-brochure]]
 relations:: [[]]
@@ -6314,6 +6404,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\web_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[web]]
 relations:: [[]]
@@ -6342,6 +6433,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\storytelling_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[storytelling]]
 relations:: [[]]
@@ -6370,6 +6462,7 @@ weight:: 10
 - ## Topics
   
 innBoK\artifacts\presentations_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[presentations]]
 relations:: [[]]
@@ -6398,6 +6491,7 @@ weight:: 20
 - ## Topics
   
 innBoK\artifacts\analysis_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[analysis]]
 relations:: [[]]
@@ -6426,6 +6520,7 @@ weight:: 80
 - ## Topics
   
 innBoK\artifacts\key-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[key-list]]
 relations:: [[]]
@@ -6454,6 +6549,7 @@ weight:: 80
 - ## Topics
   
 innBoK\artifacts\assumption-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[assumption-list]]
 item-classes:: #[[assumption]]
@@ -6491,6 +6587,7 @@ weight:: 50
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Supuestos]]}}
   
 innBoK\artifacts\risk-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[risk-list]]
 item-classes:: #[[risk]]
@@ -6538,6 +6635,7 @@ weight:: 90
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Gestión de riesgos]]}}
   
 innBoK\artifacts\business-appraisals_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-appraisals]]
 relations:: [[]]
@@ -6566,6 +6664,7 @@ weight::
 - ## Topics
   
 innBoK\artifacts\validation_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[validation]]
 relations:: [[]]
@@ -6609,6 +6708,7 @@ weight:: 90
   
   
 innBoK\artifacts\experiment-list_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[experiment-list]]
 item-classes:: #[[experiment]]
@@ -6646,6 +6746,7 @@ weight:: 60
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Validación/Experimentos]]}}
   
 innBoK\artifacts\experiment-(id)_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[experiment-(id)]]
 relations:: [[]] [[risk list]]
@@ -6674,6 +6775,7 @@ weight:: 50
 - ## Topics
   
 innBoK\artifacts\references_info.md
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[references]]
 relations:: [[]]
@@ -9507,7 +9609,7 @@ innBoK\classes\classes.md
 innBoK\classes\key.md
 color:: red
 icon:: 🔑
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: keys
 
 - ### Definition 
@@ -9520,7 +9622,7 @@ alias:: keys
 innBoK\classes\organization.md
 color:: blue
 icon:: 🏢
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: organizations
 
 - ### Definition 
@@ -9533,7 +9635,7 @@ alias:: organizations
 innBoK\classes\journey.md
 color:: blue
 icon:: ✈️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: journeys
 
 - ### Definition 
@@ -9546,7 +9648,7 @@ alias:: journeys
 innBoK\classes\assumption.md
 color:: blue
 icon:: 🔮
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: assumptions
 
 - ### Definition 
@@ -9559,7 +9661,7 @@ alias:: assumptions
 innBoK\classes\solution.md
 color:: blue
 icon:: 💊
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: solutions
 
 - ### Definition 
@@ -9572,7 +9674,7 @@ alias:: solutions
 innBoK\classes\offering.md
 color:: blue
 icon:: 🛍️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: offerings
 
 - ### Definition 
@@ -9585,7 +9687,7 @@ alias:: offerings
 innBoK\classes\work.md
 color:: blue
 icon:: ⚙️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -9598,7 +9700,7 @@ alias::
 innBoK\classes\metric.md
 color:: blue
 icon:: 📐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: metrics
 
 - ### Definition 
@@ -9611,7 +9713,7 @@ alias:: metrics
 innBoK\classes\asset.md
 color:: blue
 icon:: ⭐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: assets
 
 - ### Definition 
@@ -9624,7 +9726,7 @@ alias:: assets
 innBoK\classes\revenue.md
 color:: blue
 icon:: 💰
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -9637,7 +9739,7 @@ alias::
 innBoK\classes\segmentation.md
 color:: blue
 icon:: ✂️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -9652,7 +9754,7 @@ Segmentation is important in business because it allows companies to better unde
 innBoK\classes\segment.md
 color:: blue
 icon:: 🙋
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -9665,7 +9767,7 @@ alias:: segmentations
 innBoK\classes\segment.md
 color:: blue
 icon:: 🙋
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -9678,7 +9780,7 @@ alias:: segmentations
 innBoK\classes\value.md
 color:: blue
 icon:: 💎
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: values, value proposition
 
 - ### Definition 
@@ -9691,7 +9793,7 @@ alias:: values, value proposition
 innBoK\classes\channel.md
 color:: blue
 icon:: 🎙️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: channels
 
 - ### Definition 
@@ -9704,7 +9806,7 @@ alias:: channels
 innBoK\classes\cost.md
 color:: blue
 icon:: 💸
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: costs
 
 - ### Definition 
@@ -9717,7 +9819,7 @@ alias:: costs
 innBoK\classes\emotion.md
 color:: blue
 icon:: 😐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: emotions
 
 - ### Definition 
@@ -9730,7 +9832,7 @@ alias:: emotions
 innBoK\classes\message.md
 color:: blue
 icon:: 📣
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: messages
 
 - ### Definition 
@@ -9743,7 +9845,7 @@ alias:: messages
 innBoK\classes\feature.md
 color:: blue
 icon:: 🌟
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: features
 
 - ### Definition 
@@ -9756,7 +9858,7 @@ alias:: features
 innBoK\classes\function.md
 color:: blue
 icon:: 👔
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: functions
 
 - ### Definition 
@@ -9769,7 +9871,7 @@ alias:: functions
 innBoK\classes\goal.md
 color:: blue
 icon:: 🎯
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: goals
 
 - ### Definition 
@@ -9782,7 +9884,7 @@ alias:: goals
 innBoK\classes\hypothesis.md
 color:: red
 icon:: 🔎
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -9795,7 +9897,7 @@ alias::
 innBoK\classes\person.md
 color:: blue
 icon:: 👤
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: persons
 
 - ### Definition 
@@ -9808,7 +9910,7 @@ alias:: persons
 innBoK\classes\transaction.md
 color:: blue
 icon:: 🛒
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: transactions
 
 - ### Definition 
@@ -9821,7 +9923,7 @@ alias:: transactions
 innBoK\classes\risk.md
 color:: red
 icon:: 🚨
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: risks
 
 - ### Definition 
@@ -9834,7 +9936,7 @@ alias:: risks
 innBoK\classes\experiment.md
 color:: green
 icon:: 🧪
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: experiments
 
 - ### Definition 
@@ -9847,7 +9949,7 @@ alias:: experiments
 innBoK\classes\question.md
 color:: red
 icon:: 💭
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: questions
 
 - ### Definition 
@@ -9860,7 +9962,7 @@ alias:: questions
 innBoK\classes\insight.md
 color:: green
 icon:: 💡
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: insights
 
 - ### Definition 
@@ -9873,7 +9975,7 @@ alias:: insights
 innBoK\classes\position.md
 color:: blue
 icon:: 🪪
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: positions
 
 - ### Definition 
@@ -9886,7 +9988,7 @@ alias:: positions
 innBoK\classes\skill.md
 color:: blue
 icon:: 🔧
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: skills
 
 - ### Definition 
@@ -9899,7 +10001,7 @@ alias:: skills
 innBoK\classes\phase.md
 color:: blue
 icon:: 🗓️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: phases
 
 - ### Definition 
@@ -9912,7 +10014,7 @@ alias:: phases
 innBoK\classes\milestone.md
 color:: blue
 icon:: 🏁
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: phases
 
 - ### Definition 
@@ -9925,7 +10027,7 @@ alias:: phases
 innBoK\classes\role.md
 color:: blue
 icon:: 🎩
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -9938,7 +10040,7 @@ alias:: roles
 innBoK\classes\stakeholder.md
 color:: blue
 icon:: 👀
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -9951,7 +10053,7 @@ alias:: roles
 innBoK\classes\persona.md
 color:: blue
 icon:: 👩‍💼
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -9964,7 +10066,7 @@ alias:: roles
 innBoK\classes\topic.md
 color:: grey
 icon:: 🗄️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: topics
 
 - ### Definition 
@@ -9977,7 +10079,7 @@ alias:: topics
 innBoK\classes\resource.md
 color:: grey
 icon:: 🖥️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: resources
 
 - ### Definition 
@@ -9990,7 +10092,7 @@ alias:: resources
 innBoK\classes\artifact.md
 color:: blue
 icon:: 🧿
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: artifacts
 
 - ### Definition 
@@ -10003,7 +10105,7 @@ alias:: artifacts
 innBoK\classes\unit.md
 color:: grey
 icon:: 📓
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: units
 
 - ### Definition 
@@ -10016,7 +10118,7 @@ alias:: units
 innBoK\classes\content.md
 color:: blue
 icon:: 📘
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -10029,7 +10131,7 @@ alias::
 innBoK\classes\AI.md
 color:: blue
 icon:: 🤖
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: ai
 
 - ### Definition 
@@ -10042,7 +10144,7 @@ alias:: ai
 innBoK\classes\help.md
 color:: grey
 icon:: 🛎️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -11194,7 +11296,7 @@ plastilinn\innBoK\classes\classes.md
 plastilinn\innBoK\classes\key.md
 color:: red
 icon:: 🔑
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: keys
 
 - ### Definition 
@@ -11207,7 +11309,7 @@ alias:: keys
 plastilinn\innBoK\classes\organization.md
 color:: blue
 icon:: 🏢
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: organizations
 
 - ### Definition 
@@ -11220,7 +11322,7 @@ alias:: organizations
 plastilinn\innBoK\classes\journey.md
 color:: blue
 icon:: ✈️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: journeys
 
 - ### Definition 
@@ -11233,7 +11335,7 @@ alias:: journeys
 plastilinn\innBoK\classes\assumption.md
 color:: blue
 icon:: 🔮
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: assumptions
 
 - ### Definition 
@@ -11246,7 +11348,7 @@ alias:: assumptions
 plastilinn\innBoK\classes\solution.md
 color:: blue
 icon:: 💊
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: solutions
 
 - ### Definition 
@@ -11259,7 +11361,7 @@ alias:: solutions
 plastilinn\innBoK\classes\offering.md
 color:: blue
 icon:: 🛍️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: offerings
 
 - ### Definition 
@@ -11272,7 +11374,7 @@ alias:: offerings
 plastilinn\innBoK\classes\work.md
 color:: blue
 icon:: ⚙️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -11285,7 +11387,7 @@ alias::
 plastilinn\innBoK\classes\metric.md
 color:: blue
 icon:: 📐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: metrics
 
 - ### Definition 
@@ -11298,7 +11400,7 @@ alias:: metrics
 plastilinn\innBoK\classes\asset.md
 color:: blue
 icon:: ⭐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: assets
 
 - ### Definition 
@@ -11311,7 +11413,7 @@ alias:: assets
 plastilinn\innBoK\classes\revenue.md
 color:: blue
 icon:: 💰
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -11324,7 +11426,7 @@ alias::
 plastilinn\innBoK\classes\segmentation.md
 color:: blue
 icon:: ✂️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -11339,7 +11441,7 @@ Segmentation is important in business because it allows companies to better unde
 plastilinn\innBoK\classes\segment.md
 color:: blue
 icon:: 🙋
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -11352,7 +11454,7 @@ alias:: segmentations
 plastilinn\innBoK\classes\segment.md
 color:: blue
 icon:: 🙋
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: segmentations
 
 - ### Definition 
@@ -11365,7 +11467,7 @@ alias:: segmentations
 plastilinn\innBoK\classes\value.md
 color:: blue
 icon:: 💎
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: values, value proposition
 
 - ### Definition 
@@ -11378,7 +11480,7 @@ alias:: values, value proposition
 plastilinn\innBoK\classes\channel.md
 color:: blue
 icon:: 🎙️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: channels
 
 - ### Definition 
@@ -11391,7 +11493,7 @@ alias:: channels
 plastilinn\innBoK\classes\cost.md
 color:: blue
 icon:: 💸
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: costs
 
 - ### Definition 
@@ -11404,7 +11506,7 @@ alias:: costs
 plastilinn\innBoK\classes\emotion.md
 color:: blue
 icon:: 😐
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: emotions
 
 - ### Definition 
@@ -11417,7 +11519,7 @@ alias:: emotions
 plastilinn\innBoK\classes\message.md
 color:: blue
 icon:: 📣
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: messages
 
 - ### Definition 
@@ -11430,7 +11532,7 @@ alias:: messages
 plastilinn\innBoK\classes\feature.md
 color:: blue
 icon:: 🌟
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: features
 
 - ### Definition 
@@ -11443,7 +11545,7 @@ alias:: features
 plastilinn\innBoK\classes\function.md
 color:: blue
 icon:: 👔
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: functions
 
 - ### Definition 
@@ -11456,7 +11558,7 @@ alias:: functions
 plastilinn\innBoK\classes\goal.md
 color:: blue
 icon:: 🎯
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: goals
 
 - ### Definition 
@@ -11469,7 +11571,7 @@ alias:: goals
 plastilinn\innBoK\classes\hypothesis.md
 color:: red
 icon:: 🔎
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -11482,7 +11584,7 @@ alias::
 plastilinn\innBoK\classes\person.md
 color:: blue
 icon:: 👤
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: persons
 
 - ### Definition 
@@ -11495,7 +11597,7 @@ alias:: persons
 plastilinn\innBoK\classes\transaction.md
 color:: blue
 icon:: 🛒
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: transactions
 
 - ### Definition 
@@ -11508,7 +11610,7 @@ alias:: transactions
 plastilinn\innBoK\classes\risk.md
 color:: red
 icon:: 🚨
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: risks
 
 - ### Definition 
@@ -11521,7 +11623,7 @@ alias:: risks
 plastilinn\innBoK\classes\experiment.md
 color:: green
 icon:: 🧪
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: experiments
 
 - ### Definition 
@@ -11534,7 +11636,7 @@ alias:: experiments
 plastilinn\innBoK\classes\question.md
 color:: red
 icon:: 💭
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: questions
 
 - ### Definition 
@@ -11547,7 +11649,7 @@ alias:: questions
 plastilinn\innBoK\classes\insight.md
 color:: green
 icon:: 💡
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: insights
 
 - ### Definition 
@@ -11560,7 +11662,7 @@ alias:: insights
 plastilinn\innBoK\classes\position.md
 color:: blue
 icon:: 🪪
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: positions
 
 - ### Definition 
@@ -11573,7 +11675,7 @@ alias:: positions
 plastilinn\innBoK\classes\skill.md
 color:: blue
 icon:: 🔧
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: skills
 
 - ### Definition 
@@ -11586,7 +11688,7 @@ alias:: skills
 plastilinn\innBoK\classes\phase.md
 color:: blue
 icon:: 🗓️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: phases
 
 - ### Definition 
@@ -11599,7 +11701,7 @@ alias:: phases
 plastilinn\innBoK\classes\milestone.md
 color:: blue
 icon:: 🏁
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: phases
 
 - ### Definition 
@@ -11612,7 +11714,7 @@ alias:: phases
 plastilinn\innBoK\classes\role.md
 color:: blue
 icon:: 🎩
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -11625,7 +11727,7 @@ alias:: roles
 plastilinn\innBoK\classes\stakeholder.md
 color:: blue
 icon:: 👀
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -11638,7 +11740,7 @@ alias:: roles
 plastilinn\innBoK\classes\persona.md
 color:: blue
 icon:: 👩‍💼
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: roles
 
 - ### Definition 
@@ -11651,7 +11753,7 @@ alias:: roles
 plastilinn\innBoK\classes\topic.md
 color:: grey
 icon:: 🗄️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: topics
 
 - ### Definition 
@@ -11664,7 +11766,7 @@ alias:: topics
 plastilinn\innBoK\classes\resource.md
 color:: grey
 icon:: 🖥️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: resources
 
 - ### Definition 
@@ -11677,7 +11779,7 @@ alias:: resources
 plastilinn\innBoK\classes\artifact.md
 color:: blue
 icon:: 🧿
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: artifacts
 
 - ### Definition 
@@ -11690,7 +11792,7 @@ alias:: artifacts
 plastilinn\innBoK\classes\unit.md
 color:: grey
 icon:: 📓
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: units
 
 - ### Definition 
@@ -11703,7 +11805,7 @@ alias:: units
 plastilinn\innBoK\classes\content.md
 color:: blue
 icon:: 📘
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 
@@ -11716,7 +11818,7 @@ alias::
 plastilinn\innBoK\classes\AI.md
 color:: blue
 icon:: 🤖
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: ai
 
 - ### Definition 
@@ -11729,7 +11831,7 @@ alias:: ai
 plastilinn\innBoK\classes\help.md
 color:: grey
 icon:: 🛎️
-innbok-type:: [[class]]
+page-type:: [[class]]
 alias:: 
 
 - ### Definition 

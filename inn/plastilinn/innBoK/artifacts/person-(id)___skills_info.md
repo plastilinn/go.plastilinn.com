@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/skills]]
 item-classes:: #[[skill]]

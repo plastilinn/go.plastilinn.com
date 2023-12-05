@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/quantified-value-proposition]]
 relations:: [[profile (id)]] [[profile (id)/value proposition]] [[profile (id)/segmentation]] [[profile (id)/goals]]

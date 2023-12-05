@@ -256,7 +256,7 @@
  :ref/hierarchy-collapsed-threshold 1
 
  ;; Favorites to list on the left sidebar
- :favorites ["business info - contratos entendibles" "inncopilot map of contents" "keys (priority)" "risks (priority)" "business model - pending" "business model - completed" "business model - keys (by rating)" "business model - keys (by weight)" "keys (weight)" "keys (rating)" "keys (risk)" "business model - risk" "tasks" "business model content" "business model viewer" "business model editor" "markers" "experiments" "inncopilot/docs" "inncopilot/community"]
+ :favorites ["map of contents" "all artifacts" "all classes" "all topics" "key console" "business info - contratos entendibles" "inncopilot map of contents" "keys (priority)" "risks (priority)" "business model - pending" "business model - completed" "business model - keys (by rating)" "business model - keys (by weight)" "business model - risk" "business model content" "business model viewer" "business model editor" "markers" "experiments" "inncopilot/docs" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

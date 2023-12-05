@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/persona]]
 relations:: [[profile (id)]] [[profile (id)/segmentation]] [[profile (id)/goals]] [[profile (id)/emotions]]

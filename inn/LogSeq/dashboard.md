@@ -1,6 +1,6 @@
 ## [[How to use plastilinn]]
 -
-- {{embed [[innCoPilot Map of Contents]]}}
+- {{embed [[Map of Contents]]}}
 -
 - #### [[design]]
   background-color:: blue
@@ -23,7 +23,7 @@
 		- [[keys analytics]]
 	- [[Tasks]]
 	- [[comments]]
-	- [[keys]]
+	- [business keys]([[keys]])
 	- [[key console]]
 	- [[risk console]]
 - #### [[validation]]

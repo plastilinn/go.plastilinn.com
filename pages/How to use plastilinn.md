@@ -8,4 +8,5 @@
 	- Haz clic en el enlace "escoger una carpeta" en medio de la página
 	  Navega hasta la carpeta local de tu ordenador en la que has extraído el fichero zip, pincha en la carpeta y haz clic en "seleccionar carpeta"
 	- En la ventana emergente que aparece haz clic en el botón "editar archivos"
-	- Visualiza el video []
+	- Visualiza el video [[Prueba rápida de plastilinn]]
+- ## Usa plastilinn

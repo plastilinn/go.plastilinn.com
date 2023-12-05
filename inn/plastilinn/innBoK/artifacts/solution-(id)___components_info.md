@@ -1,3 +1,4 @@
+page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/components]]
 relations:: [[solution (id)]] [[solution id___category]] [[solution id___features]] [[solution id___roadmap]]

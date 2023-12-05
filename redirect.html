@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loading...</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D285H14N9L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-D285H14N9L');
+</script>
+
+<style>
+  /* Your existing CSS */
+</style>
+</head>
+<body>
+<div id="loading-message">
+  <p>Loading... Please wait.</p>
+</div>
+<script>
+  // Your existing JavaScript function
+  function getURLParameter(name) {
+    // ... 
+  }
+
+  // Function to track URL parameter with Google Analytics
+  function trackURLParameter(param) {
+    if(param) {
+      gtag('event', 'loading', {
+        'event_category': 'Page Loading',
+        'event_label': param
+      });
+    }
+  }
+
+  // Redirect to the destination URL after a timeout
+  var destination = getURLParameter('destination');
+  trackURLParameter(destination); // Call this function to track the URL parameter
+  if (destination) {
+    setTimeout(function() {
+      window.location.href = destination;
+    }, 5000);
+  } else {
+    document.getElementById('loading-message').innerHTML = '<p>Error: No destination URL was provided.</p>';
+  }
+</script>
+</body>
+</html>

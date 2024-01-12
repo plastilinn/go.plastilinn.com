@@ -1,6 +1,6 @@
       - Venture capital
        Space X may attract venture capitalists interested in investing in high-growth and innovative companies. Venture capital firms provide funding in exchange for equity in the company, betting on its future success and potential returns.
-Debt financing  
+       Debt financing  
        Space X may secure loans or issue bonds to raise capital through debt financing. This involves borrowing money from lenders or issuing debt securities that promise repayment with interest over a specific period.
        Government funding
        Space X has received government contracts and grants from agencies such as NASA and the Department of Defense. These contracts provide funding for specific projects or services and are often awarded through competitive bidding processes.

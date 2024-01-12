@@ -15,6 +15,15 @@ weight:: 70
       - {{embed [[person]]}}
   
 - ## Description
+  The concept of "people" in business modeling refers to the founders or individuals who establish and initiate a business model. These individuals often take on leadership roles in the development and growth of the business. They are the visionaries who conceive the business idea, identify the market opportunity, and design the business model to exploit this opportunity.
+  
+  The role of the founders is critical in a business model because they are the ones who set the direction and strategy of the business. They make key decisions about the business's value proposition, target market, revenue streams, cost structure, and other elements of the business model. They also often play a significant role in securing the resources needed to launch and grow the business, such as capital, talent, and partnerships.
+  
+  For example, in a tech startup, the founders might be the ones who come up with an innovative software solution, identify the potential customers for this solution, and design a business model to deliver this solution to the market. They might also be the ones who raise venture capital, recruit a talented team, and forge strategic partnerships to support the startup's growth.
+  
+  In addition to their strategic role, the founders also often play a key operational role in the business, especially in the early stages. They might be involved in product development, sales, marketing, customer service, and other operational activities. This hands-on involvement allows them to understand the business's operations intimately, make informed decisions, and drive the business's growth and success.
+  
+  In essence, the concept of "people" in business modeling is about recognizing the pivotal role of the founders in establishing, developing, and growing the business. It's a crucial aspect of business design, as the founders' vision, decisions, and actions can significantly impact the business's trajectory and performance.
 - ## Examples
   - ### people/examples/Space X
     {{embed [[people/examples/Space X]]}}
@@ -44,4 +53,17 @@ weight:: 70
     key-weight:: 10
 - ## Topics
   
+- ## Tools
+  - [[Business Model Canvas]]
+    - In the Business Model Canvas, "Key Partnerships" and "Key Activities" are two of the nine key components that directly relate to the people aspect of a business model. Key Partnerships refer to the network of suppliers and partners that make the business model work, which can include the founders and their relationships. Key Activities are the most important tasks a company must carry out to make its business model work, which often involve the founders and their roles in the company.
+  - [[SWOT Analysis]]
+    - The SWOT analysis can be used to evaluate the strengths and weaknesses of the founders and the leadership team. This can include their skills, experience, and relationships, as well as any potential threats or opportunities related to them.
+  - [[Organizational Chart]]
+    - This tool visually represents the structure of an organization, including the roles and responsibilities of the founders and other key individuals. It can help to clarify the roles and responsibilities of the founders, and how they fit into the overall structure of the business.
+  - [[Leadership Competency Model]]
+    - This tool identifies the specific skills, behaviors, and attitudes that are necessary for effective leadership within a specific organization or industry. It can be used to assess the competencies of the founders and to identify areas for development.
+  - [[Stakeholder Analysis]]
+    - This tool identifies and analyzes the individuals or groups that have an interest in a business or project. This can include the founders, as well as other key individuals or groups that they have relationships with. It can help to identify the needs and expectations of these stakeholders, and how they can be managed effectively.
+  - [[Balanced Scorecard]]
+    - This strategic planning and management system can be used to align business activities with the vision and strategy of the organization, improve internal and external communications, and monitor organization performance against strategic goals. The founders play a key role in these processes.
 

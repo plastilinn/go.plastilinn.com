@@ -1,5 +1,4 @@
-        
-         #emotion [[Emotion]]
+        - #emotion [[Emotion]]
          The opportunity to work with Space X, a recognized and innovative space company, can generate a feeling of excitement and anticipation.
          #emotion [[Confidence]]
          The positive reputation and successful track record of Space X can instill confidence in the procurement manager regarding the potential success of the partnership.

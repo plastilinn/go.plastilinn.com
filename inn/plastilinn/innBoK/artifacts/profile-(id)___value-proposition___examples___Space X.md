@@ -1,5 +1,4 @@
-        
-         #value [[Falcon 9]]
+        - #value [[Falcon 9]]
          A two-stage rocket designed for reliable and cost-effective transportation of satellites and spacecraft into orbit. It is capable of carrying payloads of up to 22,800 kilograms to low Earth orbit and 8,300 kilograms to geostationary transfer orbit.
          #value [[Falcon Heavy]]
          A heavy-lift launch vehicle that is currently the most powerful operational rocket in the world. It is capable of carrying payloads of up to 63,800 kilograms to low Earth orbit and 26,700 kilograms to geostationary transfer orbit.

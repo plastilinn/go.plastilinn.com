@@ -115,7 +115,6 @@ collapsed:: true
 		   #+END_QUERY
 - ### TODO #unit What are your end user's problems
   plastilinn-type:: [[unit]] [[guide-item]]
-  collapsed:: true
 	- ### TODO #unit Goals, problems, needs
 	  plastilinn-type:: [[unit]] [[guide-item]]
 	  collapsed:: true

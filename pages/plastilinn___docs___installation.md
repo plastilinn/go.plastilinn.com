@@ -1,3 +1,4 @@
 - 1,Download and install LogSeq
-- 2, Download and load the Plastilinn graph [plastilinn_V0.5.5.zip](../assets/plastilinn_V0_1705046082128_0.5.5.zip) or the [business info.txt](../assets/business_info_1705046099067_0.txt)
+- 2, Download and load the Plastilinn graph (plastilinn_VX.X.X.zip) or the (business info.txt) from:
+	- https://github.com/plastilinn/go.plastilinn.com/tree/main/files/releases/latest
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/k9fEKFas5ps?si=0b4LLlGB0lkn5EOm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

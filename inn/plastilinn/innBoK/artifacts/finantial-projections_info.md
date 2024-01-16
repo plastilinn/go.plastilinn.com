@@ -1,15 +1,25 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[finantial-projections]]
 relations:: [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - Financial projections are estimates of future financial performance of a business model, based on assumptions and historical data.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type template.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[finantial-projections/Projections]] [[**]] [[-+]]
+    key-weight:: 40
+- ## 🤖 innCoPilot
+  - If finantial projections is defined as :Financial projections are estimates of future financial performance of a business model, based on assumptions and historical data., What could it be?- How have you determined the pricing strategy for your product or service?
+  - What are the projected sales volume and revenue per unit for the first year of operation?
+  - How much does it cost to produce or deliver a single unit of your product or service?
+  - Have you considered the potential economies of scale in your unit economics analysis?
+  - What is the projected gross margin and net profit per unit for the first year, and how does it compare to industry benchmarks?
+- ## 📖 Description
   The concept of "Financial Projections" in business modeling refers to the process of forecasting a company's future financial performance based on historical data, current economic conditions, and future expectations. These projections are used to estimate revenues, expenses, and profitability over a specific period, typically for the next fiscal year, but can also extend to five years or more.
   
   Financial projections are an essential part of a business plan, as they provide a quantitative measure of the expectations for the business. They are used by both internal management and external stakeholders, such as investors and lenders, to understand the potential financial outcomes of a business model.
@@ -21,7 +31,7 @@ weight:: 20
   Finally, the company uses these assumptions to create a set of financial projections. These projections typically include an income statement, a balance sheet, and a cash flow statement. They provide a detailed picture of the company's expected financial performance, including revenues, expenses, net income, assets, liabilities, and cash flows.
   
   In conclusion, financial projections are a critical tool in business design and modeling. They provide a forward-looking view of a company's financial performance, based on a combination of historical data and future assumptions. They can help companies plan for the future, make strategic decisions, and attract investment.
-- ## Examples
+- ## 👉 Examples
   - ### finantial-projections/examples/Space X
     {{embed [[finantial-projections/examples/Space X]]}}
   - ### finantial-projections/examples/vein visualizer
@@ -33,12 +43,9 @@ weight:: 20
   - ### finantial-projections/examples/Underwater restaurant
     {{embed [[finantial-projections/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[finantial-projections/Projections]] [[**]] [[-+]]
-    key-weight:: 40
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "cost structure" and "revenue streams" are two of the nine key components. These elements are directly related to financial projections as they outline the major costs incurred while operating under a particular business model and the ways in which the business makes money from each customer segment. By analyzing these components, businesses can estimate future financial performance.
   - [[SWOT Analysis]]

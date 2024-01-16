@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[assumption-list]]
@@ -5,16 +6,24 @@ item-classes:: #[[assumption]]
 relations:: [[]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - Aspects that the entrepreneurial team knew are true and relevant to their business.
-- ## Content type (assumption)
+- ## 📰 Content type (assumption)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[assumption]]
       - {{embed [[assumption]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If assumptions is defined as :Aspects that the entrepreneurial team knew are true and relevant to their business., What could it be?- How can we effectively analyze and evaluate the different components of our business model?
+  - What are the key factors to consider when determining the importance and coherence of each component in our business model?
+  - How can we identify and assess the risks associated with our business model?
+  - Are there any specific tools or methodologies that you recommend for conducting a thorough analysis of our business model?
+  - What are some common pitfalls or blind spots that entrepreneurs often overlook when analyzing their business models?
+- ## 📖 Description
   The concept of "Assumption List" in business modeling refers to a list of hypotheses or beliefs that the entrepreneurial team holds to be true and relevant to their business. These assumptions are often based on the team's understanding of the market, the customer, the product or service, and the business environment. They serve as the foundation upon which the business model is built and are used to guide decision-making and strategy development.
   
   Here are the key aspects of "Assumption List" in business modeling:
@@ -30,7 +39,7 @@ weight:: 50
   - Financial Assumptions: These are assumptions about the financial aspects of the business, including the cost structure, the revenue model, and the profitability. For example, a business might assume that their cost of goods sold will decrease over time due to economies of scale.
   
   It's important to note that while assumptions are necessary to move forward with a business model, they should be validated or invalidated as soon as possible through market research, customer feedback, and other forms of testing. This helps to reduce risk and uncertainty, and allows the business to adapt its model based on real-world evidence.
-- ## Examples
+- ## 👉 Examples
   - ### assumption-list/examples/Space X
     {{embed [[assumption-list/examples/Space X]]}}
   - ### assumption-list/examples/vein visualizer
@@ -42,15 +51,13 @@ weight:: 50
   - ### assumption-list/examples/Underwater restaurant
     {{embed [[assumption-list/examples/Underwater restaurant]]}}
   
-- ## Keys
-  
-- ## Topics
+- ## 🗄️ Topics
   - ### TODO #topic topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Supuestos
     plastilinn-type:: [[topic]] [[guide-item]]
     innbok-artifact:: [[assumption-list]]
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Supuestos]]}}
   
-- ## Tools
+- ## 🧰 Tools
   - [[Lean Startup Methodology]]
     - The Lean Startup methodology, developed by Eric Ries, heavily emphasizes the importance of making assumptions and then testing them. The assumption list is a key component of this methodology. The entrepreneurial team lists their assumptions about their business model and then designs experiments to validate or invalidate these assumptions.
   - [[Business Model Canvas]]

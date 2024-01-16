@@ -1,15 +1,27 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/market-trends]]
 relations:: [[segment (id)]] [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - the identification and analysis of specific customer groups and their evolving needs and preferences within a business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[segment-(id)/market-trends/Market growth potential]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[segment-(id)/market-trends/Market wideness]] [[**]] [[-+]]
+    key-weight:: 30
+- ## 🤖 innCoPilot
+  - If segment id___market trends is defined as :the identification and analysis of specific customer groups and their evolving needs and preferences within a business model., What could it be?- What is the size of our segment id___serviceable available market? How many potential customers are there?
+  - How are we defining our target market? What specific characteristics or demographics are we focusing on?
+  - How are we differentiating ourselves from competitors in this market? What unique value proposition do we offer to customers?
+  - What is the growth potential of our target market? Are there any emerging trends or opportunities that we can take advantage of?
+  - How will we reach and acquire customers within this segment? What marketing and distribution strategies will we employ?
+- ## 📖 Description
   In business modeling, "Segment (ID)/Market Trends" refers to the identification and analysis of specific portions of a market (segments) and the prevailing patterns of change (trends) within these segments. This concept is crucial in a business model as it helps companies understand their target customers, competitors, and market dynamics, and formulate effective strategies.
   
   Segment ID typically involves the following aspects:
@@ -27,7 +39,7 @@ weight:: 20
   - Competitive Trends: These involve the patterns of change in the competitive environment. For example, a company might track trends in competitor activities, market shares, or entry/exit of competitors. This enables the company to predict competitive shifts and adapt its competitive strategies accordingly.
   
   For instance, a company might identify a segment of health-conscious consumers who prefer organic products and notice a trend of increasing demand for organic food. Based on this, the company might decide to launch a new line of organic products to target this segment and capitalize on this trend. This would demonstrate the company's ability to leverage its understanding of Segment (ID)/Market Trends to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### segment-(id)/market-trends/examples/Space X
     {{embed [[segment-(id)/market-trends/examples/Space X]]}}
   - ### segment-(id)/market-trends/examples/vein visualizer
@@ -39,14 +51,9 @@ weight:: 20
   - ### segment-(id)/market-trends/examples/Underwater restaurant
     {{embed [[segment-(id)/market-trends/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[segment-(id)/market-trends/Market growth potential]] [[***]] [[-+]]
-    key-weight:: 60
-  - #key [[segment-(id)/market-trends/Market wideness]] [[**]] [[-+]]
-    key-weight:: 30
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "customer segments" are one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. Understanding market trends is crucial in identifying and analyzing these segments, as it helps to understand their evolving needs and preferences.
   - [[Value Proposition Canvas]]

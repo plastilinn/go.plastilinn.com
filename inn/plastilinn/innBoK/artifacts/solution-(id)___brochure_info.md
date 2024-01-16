@@ -1,15 +1,25 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/brochure]]
 relations:: [[solution (id)]] [[solution (id)/features]] [[solution (id)/offerings]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - Basic piece of_information that should be provided to the end customer so that they know the advantages of using our product or service.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type template.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[solution-(id)/brochure/Business Brochure Quality]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  - If solution id___brochure is defined as :Basic piece of_information that should be provided to the end customer so that they know the advantages of using our product or service., What could it be?- What is the defined strategy to make our product known to its target audience?
+  - How will we identify and reach our target customers?
+  - What channels and platforms will we use to promote our product?
+  - How will we measure the effectiveness of our promotional efforts?
+  - How will we differentiate ourselves from competitors in terms of promoting our product?
+- ## 📖 Description
   The concept of "solution (id)/brochure" in business modeling refers to the essential information about a product or service that a company provides to its potential customers. This information is typically presented in a concise and attractive format, such as a brochure, and is designed to highlight the key benefits and features of the product or service.
   
   The "solution (id)" part of the concept refers to the unique identifier of the product or service. This could be a specific model of a product, a version of a software, or a type of service. The solution is what the customer is considering to purchase or use, and the brochure is the tool that helps them understand its value.
@@ -17,7 +27,7 @@ weight:: 20
   The "brochure" part of the concept refers to the document or piece of content that contains the information about the solution. The brochure is designed to be easily digestible and engaging, and to provide the customer with all the information they need to make an informed decision. It typically includes details about the features and benefits of the solution, how it works, why it's better than competing solutions, and how it can solve the customer's problem or meet their needs.
   
   In essence, the concept of "solution (id)/brochure" in business modeling is about effectively communicating the value of a product or service to potential customers. It's a crucial part of the sales and marketing process, and plays a key role in attracting and converting customers. As such, it's an important aspect of business design, as it directly impacts the company's ability to generate revenue and achieve its business goals.
-- ## Examples
+- ## 👉 Examples
   - ### solution-(id)/brochure/examples/Space X
     {{embed [[solution-(id)/brochure/examples/Space X]]}}
   - ### solution-(id)/brochure/examples/vein visualizer
@@ -29,12 +39,9 @@ weight:: 20
   - ### solution-(id)/brochure/examples/Underwater restaurant
     {{embed [[solution-(id)/brochure/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[solution-(id)/brochure/Business Brochure Quality]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Value Proposition" component is closely related to the "Solution (ID)/Brochure" concept. The value proposition is the unique combination of products and services that meet the customer's needs. It's the reason why customers turn to one company over another. The brochure, in this case, would be a tool to communicate this value proposition effectively to the customer.
   - [[Marketing Mix]]

@@ -1,15 +1,20 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-appraisals]]
 relations:: [[]]
 weight:: 
 
-- ## Definition
+- ## 🔍 Definition
   - Business appraisals refer to the process of evaluating and determining the value of a business entity or its assets.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   Business appraisals, in the context of business modeling, refer to the systematic evaluation and determination of the economic value of a business entity or its assets. This process is crucial in various business scenarios such as mergers and acquisitions, business sales, investment analysis, and strategic planning.
   
   The appraisal process involves a comprehensive analysis of the business's financial statements, market conditions, industry trends, and other relevant factors. It may also include the use of various valuation methods such as discounted cash flow analysis, comparable company analysis, and asset-based approaches.
@@ -21,7 +26,7 @@ weight::
   In a strategic planning scenario, a business appraisal would be conducted to guide the company's strategic decisions. This would involve assessing the company's strengths, weaknesses, opportunities, and threats. The appraisal would provide insights into the company's competitive advantage, market position, and growth potential.
   
   In conclusion, business appraisals in business modeling are a critical process that provides a robust, objective, and reliable assessment of a business's value. They play a key role in facilitating informed decision-making, strategic planning, and value creation.
-- ## Examples
+- ## 👉 Examples
   - ### business-appraisals/examples/Space X
     {{embed [[business-appraisals/examples/Space X]]}}
   - ### business-appraisals/examples/vein visualizer
@@ -33,11 +38,9 @@ weight::
   - ### business-appraisals/examples/Underwater restaurant
     {{embed [[business-appraisals/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Discounted Cash Flow (DCF) Analysis]]
     - The DCF analysis is a method used in finance to estimate the value of an investment based on its expected future cash flows. This method is often used in business appraisals to determine the value of a company or its assets. The DCF analysis takes into account the time value of money, meaning that it considers the fact that money available today is worth more than the same amount in the future due to its potential earning capacity.
   - [[Comparable Company Analysis (CCA)]]

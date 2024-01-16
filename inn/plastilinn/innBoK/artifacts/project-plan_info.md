@@ -1,15 +1,25 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[project-plan]]
 relations:: [[]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - A project is a temporary endeavor with a specific goal or objective that contributes to the overall business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[project-plan/Business plan]] [[**]] [[-+]]
+    key-weight:: 35
+- ## 🤖 innCoPilot
+  - If business project is defined as :A project is a temporary endeavor with a specific goal or objective that contributes to the overall business model., What could it be?- What are the different funding sources we should consider for our startup?
+  - How can we attract investors to fund our business?
+  - Are there any specific grants or funding programs available for startups in our industry?
+  - What are the advantages and disadvantages of seeking venture capital funding?
+  - How can we ensure a steady cash flow for our startup in the early stages?
+- ## 📖 Description
   The concept of "Project Plan" in business modeling refers to a detailed plan that outlines the tasks, resources, timeline, and budget required to complete a specific project. This project is a temporary endeavor with a specific goal or objective that contributes to the overall business model. 
   
   A project plan is a critical tool in business design and modeling as it provides a roadmap for executing and controlling the project. It helps to ensure that all team members understand their roles and responsibilities, the project's scope, and the timeline for completion. 
@@ -25,7 +35,7 @@ weight:: 30
   The project plan also includes a risk management plan, which identifies potential risks and outlines strategies for mitigating them. 
   
   In conclusion, a project plan is a comprehensive guide for managing a project. It outlines the project's objectives, tasks, resources, timeline, and risk management strategies. It is a critical tool in business design and modeling, helping to ensure that projects are completed on time, within budget, and meet their objectives.
-- ## Examples
+- ## 👉 Examples
   - ### project-plan/examples/Space X
     {{embed [[project-plan/examples/Space X]]}}
   - ### project-plan/examples/vein visualizer
@@ -37,10 +47,7 @@ weight:: 30
   - ### project-plan/examples/Underwater restaurant
     {{embed [[project-plan/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[project-plan/Business plan]] [[**]] [[-+]]
-    key-weight:: 35
-- ## Topics
+- ## 🗄️ Topics
   - ### TODO #topic topic/Modelo de negocio/Plan de negocio
     plastilinn-type:: [[topic]] [[guide-item]]
     innbok-artifact:: [[project-plan]]
@@ -56,7 +63,7 @@ weight:: 30
     innbok-artifact:: [[project-plan]]
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Diseño/Trabajo]]}}
   
-- ## Tools
+- ## 🧰 Tools
   - [[Gantt Chart]]
     - A Gantt chart is a visual representation of a project schedule, showing the start and finish dates of the terminal elements and summary elements of a project. It is a useful tool for planning and scheduling projects, managing the project's timeline, and visualizing the project plan in the context of the overall business model.
   - [[Critical Path Method (CPM)]]

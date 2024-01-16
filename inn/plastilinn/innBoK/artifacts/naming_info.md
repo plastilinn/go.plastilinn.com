@@ -1,15 +1,31 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[naming]]
 relations:: [[]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - the process of choosing and defining the name of a business, product, or service within a business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[naming/Pronunciation Ease]] [[*]] [[-+]]
+    key-weight:: 20
+  - #key [[naming/Phonetic Consistency]] [[*]] [[-+]]
+    key-weight:: 10
+  - #key [[naming/Spelling from Pronunciation]] [[*]] [[-+]]
+    key-weight:: 10
+  - #key [[naming/Negative Connotations]] [[*]] [[-+]]
+    key-weight:: 10
+- ## 🤖 innCoPilot
+  - If naming is defined as :the process of choosing and defining the name of a business, product, or service within a business model., What could it be?- What specific milestones should we aim to achieve in the first year of our startup?
+  - How can we ensure that our milestones are measurable and achievable?
+  - What are some examples of milestones that successful startups in our industry have set and achieved?
+  - How can we prioritize our milestones to ensure we are focusing on the most important aspects of our business?
+  - How can we track and evaluate our progress towards each milestone to ensure we are on track for success?
+- ## 📖 Description
   The concept of "Naming" in business modeling refers to the process of selecting and defining the name of a business, product, or service within a business model. This is a crucial aspect of business design as it plays a significant role in shaping the identity and perception of the business or its offerings in the market. 
   
   Here are the key aspects of "Naming" in business modeling:
@@ -25,7 +41,7 @@ weight:: 30
   - Marketability: The name should be marketable. This means it should be appealing to the target audience and suitable for use in advertising and promotional materials. For example, a children's toy company might choose a name that is fun and appealing to kids.
   
   By carefully considering these aspects in the "Naming" process, a business can create a strong and effective name that supports its business model and contributes to its success in the market. For instance, the organic food company might use its name to communicate its commitment to natural ingredients, differentiate itself from competitors, and create a memorable brand for consumers. This would demonstrate the company's ability to leverage "Naming" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### naming/examples/Space X
     {{embed [[naming/examples/Space X]]}}
   - ### naming/examples/vein visualizer
@@ -37,18 +53,9 @@ weight:: 30
   - ### naming/examples/Underwater restaurant
     {{embed [[naming/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[naming/Pronunciation Ease]] [[*]] [[-+]]
-    key-weight:: 20
-  - #key [[naming/Phonetic Consistency]] [[*]] [[-+]]
-    key-weight:: 10
-  - #key [[naming/Spelling from Pronunciation]] [[*]] [[-+]]
-    key-weight:: 10
-  - #key [[naming/Negative Connotations]] [[*]] [[-+]]
-    key-weight:: 10
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Brand Identity Prism]]
     - The Brand Identity Prism, developed by Jean-Noel Kapferer, is a tool that helps businesses define and communicate their brand identity. The "Physique" facet of the prism can include the name of the business, product, or service, as it represents the tangible aspects of the brand.
   - [[Brand Positioning Canvas]]

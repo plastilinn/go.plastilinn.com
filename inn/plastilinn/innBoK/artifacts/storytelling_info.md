@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[storytelling]]
 relations:: [[]]
 weight:: 10
 
-- ## Definition
+- ## 🔍 Definition
   - the use of narrative techniques to communicate the brand's purpose, values, and mission to customers.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If storytelling is defined as :the use of narrative techniques to communicate the brand's purpose, values, and mission to customers., What could it be?- What should be the key elements to include in our business brochure?
+  - How can we effectively communicate our products and services in the brochure?
+  - What strategies can we use to make our value proposition stand out in the brochure?
+  - Are there any specific design or layout recommendations for creating an impactful business brochure?
+  - How can we ensure that our business brochure effectively targets and appeals to our potential customers?
+- ## 📖 Description
   The concept of Storytelling in business modeling refers to the strategic and purposeful use of narrative techniques to communicate a brand's purpose, values, and mission to its customers. This approach is rooted in the understanding that humans are naturally drawn to stories, and that stories can be a powerful tool for creating emotional connections, conveying complex ideas, and inspiring action.
   
   In the context of business design, storytelling can take many forms. It could be the brand's founding story that illustrates its mission and values, customer success stories that demonstrate the value of its products or services, or future-oriented stories that paint a vision of what the brand aims to achieve.
@@ -23,7 +32,7 @@ weight:: 10
   Lastly, storytelling can shape and reinforce the brand's culture and identity. The stories a brand tells - both internally and externally - can help define what it stands for, how it operates, and how it perceives and interacts with the world.
   
   In summary, the Storytelling model in business design is a strategic approach that uses narrative techniques to communicate a brand's purpose, values, and mission, build emotional connections, clarify its value proposition, inspire action, and shape its culture and identity. It is a powerful tool for enhancing brand perception, customer engagement, and business performance.
-- ## Examples
+- ## 👉 Examples
   - ### storytelling/examples/Space X
     {{embed [[storytelling/examples/Space X]]}}
   - ### storytelling/examples/vein visualizer
@@ -35,11 +44,9 @@ weight:: 10
   - ### storytelling/examples/Underwater restaurant
     {{embed [[storytelling/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Brand Storytelling Framework]]
     - This tool helps businesses to craft a compelling narrative that communicates their brand's purpose, values, and mission. It includes elements such as the brand's history, vision, mission, values, personality, and customer promise. The framework guides businesses in telling their story in a way that resonates with their target audience and differentiates them from their competitors.
   

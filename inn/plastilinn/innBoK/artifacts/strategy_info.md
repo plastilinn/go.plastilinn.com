@@ -1,15 +1,31 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[strategy]]
 relations:: [[organization goals]] [[mission]] [[vision]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - the plan of action or approach taken by a business model to achieve its goals and objectives.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[strategy/Expansion Capability]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[strategy/Cultural Adaptability]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[strategy/Cultural Sensitivity]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[strategy/International Logistics]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  - If strategy is defined as :the plan of action or approach taken by a business model to achieve its goals and objectives., What could it be?- What are the key business values that should be incorporated into our startup's culture and decision-making process?
+  - How can we ensure that our business values align with the needs and expectations of our stakeholders?
+  - Are there any specific business values that have been proven to be particularly effective in driving the success of startups?
+  - How can we communicate and reinforce our business values to our team members and stakeholders?
+  - What strategies can we implement to ensure that our business values are consistently upheld and integrated into our daily operations?
+- ## 📖 Description
   In business modeling, "strategy" refers to the high-level plan and approach a company takes to achieve its goals and objectives in the face of competition. It is the blueprint that guides the company's decisions and actions, aligning them with its mission, vision, and values. Strategy is a critical component of a business model as it defines the direction and scope of the organization over the long term.
   
   A business strategy typically includes the following elements:
@@ -23,7 +39,7 @@ weight:: 50
   - Risk Management: A strategy also involves identifying potential risks and challenges and developing plans to mitigate them. This could include market risks, operational risks, financial risks, and more.
   
   For example, a company's strategy might be to become the market leader in its industry by offering innovative, high-quality products, investing heavily in research and development, building a strong brand, and providing exceptional customer service. This strategy would guide the company's decisions about product development, marketing, sales, customer service, and other key areas.
-- ## Examples
+- ## 👉 Examples
   - ### strategy/examples/Space X
     {{embed [[strategy/examples/Space X]]}}
   - ### strategy/examples/vein visualizer
@@ -35,18 +51,9 @@ weight:: 50
   - ### strategy/examples/Underwater restaurant
     {{embed [[strategy/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[strategy/Expansion Capability]] [[***]] [[-+]]
-    key-weight:: 45
-  - #key [[strategy/Cultural Adaptability]] [[**]] [[-+]]
-    key-weight:: 40
-  - #key [[strategy/Cultural Sensitivity]] [[**]] [[-+]]
-    key-weight:: 30
-  - #key [[strategy/International Logistics]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "strategy" is not explicitly defined as a separate component, but it is inherently present in all nine components. The strategy is reflected in how these components interact and align to create and deliver value. For example, the value proposition, customer segments, channels, customer relationships, key activities, key resources, key partnerships, cost structure, and revenue streams all need to be strategically aligned to ensure the business model's success.
   - [[Blue Ocean Strategy]]

@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/skills]]
@@ -5,16 +6,24 @@ item-classes:: #[[skill]]
 relations:: [[person (id)]] [[solution (id)]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - the unique identification and competencies of individuals within a business model.
-- ## Content type (skill)
+- ## 📰 Content type (skill)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[skill]]
       - {{embed [[skill]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If person id___skills is defined as :the unique identification and competencies of individuals within a business model., What could it be?- How experienced are the founders in starting and growing successful startups?
+  - What specific skills and expertise do the founders bring to the table that will contribute to the success of the startup?
+  - Have the founders worked together in the past, and if so, what was their track record of success?
+  - How committed are the founders to the long-term vision and growth of the startup?
+  - Are the founders open to seeking mentorship and guidance from industry experts to enhance their chances of success?
+- ## 📖 Description
   The concept of "Person (ID)/Skills" in business modeling refers to the unique identification and competencies of individuals within a business model. This concept is crucial in business design as it helps businesses understand the unique value each individual brings to the organization and informs strategic decisions about talent acquisition, development, and management.
   
   Here are the key aspects of "Person (ID)/Skills" in business modeling:
@@ -30,7 +39,7 @@ weight:: 50
   - Talent Management: This involves the strategies used to retain, motivate, and manage individuals within the organization. Effective talent management can increase employee satisfaction, reduce turnover, and improve organizational performance.
   
   By understanding and optimizing these aspects of "Person (ID)/Skills", a business can maximize the value of its human resources. For instance, a tech company might invest in training and development programs to enhance the skills of its employees, thereby increasing the overall capability of the organization. This would demonstrate the company's ability to leverage "Person (ID)/Skills" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### person-(id)/skills/examples/Space X
     {{embed [[person-(id)/skills/examples/Space X]]}}
   - ### person-(id)/skills/examples/vein visualizer
@@ -42,11 +51,9 @@ weight:: 50
   - ### person-(id)/skills/examples/Underwater restaurant
     {{embed [[person-(id)/skills/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Skills Matrix]]
     - A Skills Matrix is a tool that helps to identify the skills and competencies of individuals within a business model. It provides a visual representation of the skills each person possesses, allowing for easy identification of skill gaps and areas for development. This can be particularly useful in planning for future needs and in identifying training opportunities.
   - [[Competency Framework]]

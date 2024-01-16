@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[cap-table]]
 relations:: [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - the financial resources, assets, and investments that a business uses to generate income and support its operations.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type template.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If capital structure is defined as :the financial resources, assets, and investments that a business uses to generate income and support its operations., What could it be?- How do we plan to secure initial funding for our startup?
+  - What are the different sources of funding that we can explore?
+  - How do we plan to attract investors to invest in our startup?
+  - What is our timeline for securing funding and how will it align with our business milestones?
+  - How do we plan to manage and allocate the funds once secured?
+- ## 📖 Description
   The concept of "Cap Table" in business modeling refers to the detailed breakdown of a company's shareholders and the equity they hold. It is a critical component of a business's financial structure, as it outlines the ownership stakes, the type of equity each stakeholder holds, and the value of these equities.
   
   The Cap Table, short for Capitalization Table, includes all types of equity ownership in the company, such as common and preferred shares, options, warrants, and convertible notes. It also shows the potential dilution of ownership over time as more investors come in or employees exercise their stock options.
@@ -19,7 +28,7 @@ weight:: 20
   The Cap Table is a dynamic document that changes over time as the company's equity structure evolves. It is a crucial tool for financial planning and decision-making, as it provides a clear picture of the company's ownership structure and the potential impact of future financing rounds or equity grants on existing shareholders.
   
   In essence, the concept of "Cap Table" in business modeling is about understanding and managing the equity ownership of a company. This is a vital aspect of business design, as it directly impacts the company's financial resources, its ability to attract and retain key talent, and its attractiveness to potential investors.
-- ## Examples
+- ## 👉 Examples
   - ### cap-table/examples/Space X
     {{embed [[cap-table/examples/Space X]]}}
   - ### cap-table/examples/vein visualizer
@@ -31,11 +40,9 @@ weight:: 20
   - ### cap-table/examples/Underwater restaurant
     {{embed [[cap-table/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Resources" component can include financial resources, assets, and investments that a business uses to generate income and support its operations. This can be seen as a simplified version of a cap table, as it outlines the main resources that the company relies on.
   - [[SWOT Analysis]]

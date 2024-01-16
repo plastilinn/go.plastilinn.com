@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[funding-sources]]
 relations:: [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - the various ways a business model generates revenue or acquires capital to support its operations.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type list.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If funding sources is defined as :the various ways a business model generates revenue or acquires capital to support its operations., What could it be?- What assumptions did you make when creating the financial projections?
+  - How did you determine the growth rate for revenue and expenses in the projections?
+  - What is the expected timeline for achieving profitability based on the financial projections?
+  - Have you considered potential risks and uncertainties that could impact the financial projections?
+  - How do the financial projections align with the overall business strategy and goals?
+- ## 📖 Description
   The concept of Funding Sources in business modeling refers to the diverse ways a business model generates revenue or acquires capital to support its operations. This concept is crucial as it directly impacts the financial sustainability and growth potential of a business.
   
   Funding Sources can be broadly categorized into two types: internal and external. Internal funding sources are generated within the business and include revenues from sales, profits retained in the business, and depreciation provisions. These sources are typically recurring and are closely linked to the business's operational performance.
@@ -23,7 +32,7 @@ weight:: 20
   For example, a software company might generate revenue through subscription fees (an internal funding source) and also raise capital through a series of funding rounds with venture capitalists (an external funding source). These funding sources would support the company's operations, fund its growth initiatives, and shape its business model.
   
   In summary, the Funding Sources model provides a framework for identifying, evaluating, and managing the various ways a business generates revenue or acquires capital. It is a critical component of business design, influencing the business's financial sustainability, growth potential, and overall business strategy.
-- ## Examples
+- ## 👉 Examples
   - ### funding-sources/examples/Space X
     {{embed [[funding-sources/examples/Space X]]}}
   - ### funding-sources/examples/vein visualizer
@@ -35,11 +44,9 @@ weight:: 20
   - ### funding-sources/examples/Underwater restaurant
     {{embed [[funding-sources/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "revenue streams" is one of the nine key components. This refers to the ways a company generates income from each customer segment. It includes all the methods of generating revenue, which could be through direct sales, licensing, subscription fees, advertising, etc. This component is closely related to the funding sources of a business model.
   - [[SWOT Analysis]]

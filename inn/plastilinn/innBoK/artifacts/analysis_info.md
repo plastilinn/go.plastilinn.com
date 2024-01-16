@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[analysis]]
 relations:: [[]]
 weight:: 80
 
-- ## Definition
+- ## 🔍 Definition
   - The process of examining and evaluating the different components of the business model to identify their importance and coherence and determine the risks it entails.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If analysis is defined as :The process of examining and evaluating the different components of the business model to identify their importance and coherence and determine the risks it entails., What could it be?- What are the key steps in our profile ID___funnel and how have we determined them?
+  - What are the conversion rates between each step in the funnel and how do they compare to industry benchmarks?
+  - Are there any gaps or bottlenecks in our funnel that need to be addressed? How can we optimize these areas?
+  - How can we increase the percentage of people moving from one step to the next in our funnel?
+  - What strategies can we implement to improve customer retention and loyalty throughout the entire funnel?
+- ## 📖 Description
   The concept of "Analysis" in business modeling refers to the systematic examination and evaluation of the various components of a business model. This process is crucial in identifying the significance and coherence of each element, as well as determining the potential risks associated with the model.
   
   During the analysis phase, each aspect of the business model is scrutinized. This includes the value proposition, customer segments, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. The goal is to understand how these components interact with each other and contribute to the overall functioning of the business.
@@ -19,7 +28,7 @@ weight:: 80
   The analysis phase is not only about identifying potential risks, but also about finding opportunities for improvement and innovation. It can reveal inefficiencies in the business model, areas for cost reduction, potential new revenue streams, and opportunities for better serving customers.
   
   In essence, the concept of "Analysis" in business modeling is about understanding a business model in depth. It is a critical aspect of business design, as it directly impacts the ability of a business to mitigate risks, seize opportunities, and ultimately, achieve success.
-- ## Examples
+- ## 👉 Examples
   - ### analysis/examples/Space X
     {{embed [[analysis/examples/Space X]]}}
   - ### analysis/examples/vein visualizer
@@ -31,11 +40,9 @@ weight:: 80
   - ### analysis/examples/Underwater restaurant
     {{embed [[analysis/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[SWOT Analysis]]
     - The SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) is a tool that can be used to analyze the different components of a business model. It helps to identify the strengths and weaknesses of the business model, as well as the opportunities and threats it faces. This analysis can help to identify the risks associated with the business model and determine its coherence and importance.
   

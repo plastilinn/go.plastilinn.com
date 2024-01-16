@@ -1,15 +1,20 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[references]]
 relations:: [[]]
 weight:: 0
 
-- ## Definition
+- ## 🔍 Definition
   - Documents, articles, web sites, etc... referenced in this document
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   The concept of "References" in business modeling refers to the various sources of information that are used to support the development and validation of a business model. These references can include documents, articles, websites, and other resources that provide valuable insights, data, or perspectives related to the business model.
   
   In the context of business design, references serve several key functions. Firstly, they provide evidence and support for the assumptions, decisions, and strategies that are incorporated into the business model. This can enhance the credibility and validity of the model, making it more likely to be accepted and implemented by stakeholders.
@@ -21,7 +26,7 @@ weight:: 0
   Lastly, references can serve as a learning tool for businesses. By studying the experiences, successes, and failures of other businesses, they can gain valuable insights and lessons that can inform their own business model.
   
   In summary, the concept of "References" in business modeling is about leveraging various sources of information to support, inspire, and inform the development of a business model. It is a crucial aspect of business design that contributes to the credibility, innovation, adaptability, and learning of the business.
-- ## Examples
+- ## 👉 Examples
   - ### references/examples/Space X
     {{embed [[references/examples/Space X]]}}
   - ### references/examples/vein visualizer
@@ -33,11 +38,9 @@ weight:: 0
   - ### references/examples/Underwater restaurant
     {{embed [[references/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Harvard Business Review (HBR)]]
     - HBR is a leading source of business model references, offering a wealth of articles, case studies, and reports on various aspects of business design. It provides insights from industry leaders and academics, making it a valuable reference for business model development.
   - [[McKinsey & Company Insights]]

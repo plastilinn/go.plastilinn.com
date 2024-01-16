@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[position-list]]
@@ -5,16 +6,20 @@ item-classes:: #[[position]]
 relations:: [[]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - A position list refers to a strategic document outlining the roles, responsibilities, and hierarchy of positions within a business.
-- ## Content type (position)
+- ## 📰 Content type (position)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[position]]
       - {{embed [[position]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   The concept of a "Position List" in business modeling refers to a strategic document that outlines the roles, responsibilities, and hierarchy of positions within a business. This is a critical component in business design as it provides a clear structure for the organization and helps to define the roles and responsibilities of each position. 
   
   Here are the key aspects of a "Position List" in business modeling:
@@ -30,7 +35,7 @@ weight:: 30
   - Talent Management: The position list informs talent management strategies, including recruitment, development, and retention. By understanding the roles, responsibilities, and hierarchy of positions, businesses can more effectively manage their talent.
   
   By understanding and optimizing these aspects of a "Position List", a business can create a more efficient and effective organizational structure. For instance, a manufacturing company might use a position list to clearly define the roles and responsibilities of its production team, ensuring that each step of the production process is accounted for and managed effectively. This would demonstrate the company's ability to leverage a "Position List" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### position-list/examples/Space X
     {{embed [[position-list/examples/Space X]]}}
   - ### position-list/examples/vein visualizer
@@ -42,11 +47,9 @@ weight:: 30
   - ### position-list/examples/Underwater restaurant
     {{embed [[position-list/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Organizational Chart]]
     - An Organizational Chart is a diagram that visually represents the structure of an organization, including the roles, responsibilities, and relationships between individuals within the business. This tool is particularly useful for understanding the hierarchy of positions within a company and can be used to identify gaps or redundancies in the organizational structure.
   - [[RACI Matrix]]

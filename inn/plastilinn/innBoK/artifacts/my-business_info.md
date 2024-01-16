@@ -1,15 +1,29 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[my-business]]
 relations:: [[]]
 weight:: 90
 
-- ## Definition
+- ## 🔍 Definition
   - A business is an organization or entity that provides goods or services in exchange for profit or revenue.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[my-business/Continuous innovation and adaptation]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[my-business/Robust fraud prevention measures]] [[*]] [[-+]]
+    key-weight:: 20
+  - #key [[my-business/Stable political environment]] [[*]] [[-+]]
+    key-weight:: 10
+- ## 🤖 innCoPilot
+  - How can we ensure that our business model is sustainable and profitable in the long run?
+  - What strategies can we implement to effectively target and attract our target market?
+  - How can we differentiate ourselves from competitors in the market?
+  - What are the potential risks and challenges that we may face in our business, and how can we mitigate them?
+  - How can we effectively measure and track the success of our business, and what key performance indicators should we focus on?
+- ## 📖 Description
   The concept of "My Business" in business modeling refers to the personalized and unique approach to designing and managing a business model. This concept emphasizes the importance of tailoring the business model to the specific needs, goals, and context of the business, rather than adopting a one-size-fits-all approach.
   
   In the "My Business" model, the business owner or management team takes into account the unique characteristics of the business, such as its size, industry, target market, resources, and competitive environment. They then design a business model that is best suited to these characteristics and that will enable the business to achieve its objectives.
@@ -19,7 +33,7 @@ weight:: 90
   On the other hand, the multinational coffee chain would likely have a business model focused on scalability, efficiency, and brand consistency. Its business model might include multiple locations, a large workforce, standardized products and processes, and a strong emphasis on marketing and brand recognition.
   
   The "My Business" concept in business modeling is crucial because it recognizes that each business is unique and that its business model should reflect this uniqueness. It encourages business owners and managers to think critically about what makes their business unique and how they can leverage these unique characteristics to create a successful and sustainable business model.
-- ## Examples
+- ## 👉 Examples
   - ### my-business/examples/Space X
     {{embed [[my-business/examples/Space X]]}}
   - ### my-business/examples/vein visualizer
@@ -31,14 +45,7 @@ weight:: 90
   - ### my-business/examples/Underwater restaurant
     {{embed [[my-business/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[my-business/Continuous innovation and adaptation]] [[***]] [[-+]]
-    key-weight:: 50
-  - #key [[my-business/Robust fraud prevention measures]] [[*]] [[-+]]
-    key-weight:: 20
-  - #key [[my-business/Stable political environment]] [[*]] [[-+]]
-    key-weight:: 10
-- ## Topics
+- ## 🗄️ Topics
   - ### TODO #topic topic/Modelo de negocio
     plastilinn-type:: [[topic]] [[guide-item]]
     innbok-artifact:: [[my-business]]
@@ -134,7 +141,7 @@ weight:: 90
     innbok-artifact:: [[my-business]]
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Analiza las claves de tu modelo de negocio]]}}
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "Key Activities" and "Key Resources" are two of the nine key components that directly relate to the operations of a business. Key Activities refer to the most important tasks a company must carry out to make its business model work, while Key Resources are the assets required to offer and deliver the stated unique value proposition.
   - [[Value Proposition Canvas]]

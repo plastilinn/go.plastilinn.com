@@ -1,15 +1,27 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[vision]]
 relations:: [[business objectives]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - Vision is a statement that outlines the long-term aspirations and goals of a business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[vision/Realism - Ambition]] [[*]] [[-+]]
+    key-weight:: 10
+  - #key [[vision/Clarity of Conception]] [[*]] [[-+]]
+    key-weight:: 10
+- ## 🤖 innCoPilot
+  - If vision is defined as :Vision is a statement that outlines the long-term aspirations and goals of a business model., What could it be?- What are the specific goals or targets that our business model aims to achieve?
+  - How do these objectives align with creating value for our stakeholders?
+  - Are our objectives realistic and achievable within the given timeframe?
+  - What metrics or key performance indicators should we use to track the progress towards these objectives?
+  - How can we ensure that our objectives are communicated effectively to all stakeholders involved in our startup?
+- ## 📖 Description
   In business modeling, the concept of "vision" refers to the aspirational image or goal that a business aims to achieve in the future. It is a forward-looking statement that provides a clear direction for the organization's growth and development. The vision is typically expressed in a vision statement, which is a brief, inspiring declaration of the business's long-term objectives.
   
   The vision is a vital component of a business model as it sets the business's strategic direction and guides its decision-making processes. It communicates what the business aspires to become, who it aims to serve, and how it intends to evolve to provide greater value to its customers or clients. The vision also serves as an inspirational tool, motivating employees and stakeholders to strive towards the shared goal.
@@ -17,7 +29,7 @@ weight:: 50
   For example, the vision of a technology company might be "to revolutionize the way people interact with technology." This vision guides the company's innovation and product development efforts, and it communicates to stakeholders - including investors, employees, and customers - what the company is aiming to achieve.
   
   In essence, the concept of "vision" in business modeling is about defining and articulating the long-term goals of a business. It is a critical element in business design, providing strategic direction, inspiration, and a framework for decision-making, and shaping the business's growth and development strategies.
-- ## Examples
+- ## 👉 Examples
   - ### vision/examples/Space X
     {{embed [[vision/examples/Space X]]}}
   - ### vision/examples/vein visualizer
@@ -29,14 +41,9 @@ weight:: 50
   - ### vision/examples/Underwater restaurant
     {{embed [[vision/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[vision/Realism - Ambition]] [[*]] [[-+]]
-    key-weight:: 10
-  - #key [[vision/Clarity of Conception]] [[*]] [[-+]]
-    key-weight:: 10
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the vision is not explicitly represented as one of the nine key components. However, it is an underlying element that guides the overall design of the business model. The vision helps to define the value proposition, customer segments, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure.
   - [[Balanced Scorecard]]

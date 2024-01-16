@@ -1,37 +1,16 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[finance]]
 relations:: [[business]] [[activitiy list]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - the management of financial resources and the allocation of funds within a business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
-  The concept of Finance in business modeling refers to the strategic management and allocation of financial resources within a business model. This involves the planning, organizing, controlling, and monitoring of financial resources to achieve the business objectives.
-  
-  In this model, the financial resources of a business are identified and quantified. These resources can include capital, revenues, investments, and other financial assets. The allocation of these resources is then planned and managed, based on the business's strategic goals and operational needs. This can involve decisions about investment, expenditure, savings, and fundraising.
-  
-  The purpose of the Finance model is to ensure that the business has sufficient financial resources to operate effectively and achieve its goals. It also aims to optimize the use of these resources, by allocating them in a way that maximizes the business's profitability and financial sustainability. This involves balancing the need for immediate expenditure, to support the business's operations and growth, with the need for long-term financial stability and resilience.
-  
-  For example, in a manufacturing company, the Finance model might involve decisions about how much to invest in new machinery, how much to spend on raw materials and labor, how much to save for future expansion, and how much to return to shareholders as dividends. These decisions would be based on a careful analysis of the company's financial resources, market conditions, business strategy, and risk tolerance.
-  
-  In essence, the Finance model is a critical aspect of business design. It provides a framework for making strategic financial decisions, managing financial risks, and ensuring the financial health and success of the business. It also interacts with other business modeling concepts, such as the Person (ID)/Functions model, by determining the financial resources available for each function and role within the business.
-- ## Examples
-  - ### finance/examples/Space X
-    {{embed [[finance/examples/Space X]]}}
-  - ### finance/examples/vein visualizer
-    {{embed [[finance/examples/vein visualizer]]}}
-  - ### finance/examples/extinguished animals meat
-    {{embed [[finance/examples/extinguished animals meat]]}}
-  - ### finance/examples/Exotic Pet Rental
-    {{embed [[finance/examples/Exotic Pet Rental]]}}
-  - ### finance/examples/Underwater restaurant
-    {{embed [[finance/examples/Underwater restaurant]]}}
-  
-- ## Keys
+- ## 🔑 Keys
   - #key [[finance/Profitability]] [[***]] [[-+]]
     key-weight:: 60
   - #key [[finance/Gross margins]] [[***]] [[-+]]
@@ -44,9 +23,37 @@ weight:: 50
     key-weight:: 15
   - #key [[finance/Currency risk management]] [[*]] [[-+]]
     key-weight:: 10
-- ## Topics
+- ## 🤖 innCoPilot
+  - If finance is defined as :the management of financial resources and the allocation of funds within a business model., What could it be?- How do we calculate the lifetime value of a customer in our business model?
+  - What factors should we consider when estimating the lifetime value of our customers?
+  - How can we increase the lifetime value of our customers?
+  - Should we focus on acquiring new customers or retaining existing ones to maximize the lifetime value?
+  - How can we track and measure the lifetime value of our customers over time?
+- ## 📖 Description
+  The concept of Finance in business modeling refers to the strategic management and allocation of financial resources within a business model. This involves the planning, organizing, controlling, and monitoring of financial resources to achieve the business objectives.
   
-- ## Tools
+  In this model, the financial resources of a business are identified and quantified. These resources can include capital, revenues, investments, and other financial assets. The allocation of these resources is then planned and managed, based on the business's strategic goals and operational needs. This can involve decisions about investment, expenditure, savings, and fundraising.
+  
+  The purpose of the Finance model is to ensure that the business has sufficient financial resources to operate effectively and achieve its goals. It also aims to optimize the use of these resources, by allocating them in a way that maximizes the business's profitability and financial sustainability. This involves balancing the need for immediate expenditure, to support the business's operations and growth, with the need for long-term financial stability and resilience.
+  
+  For example, in a manufacturing company, the Finance model might involve decisions about how much to invest in new machinery, how much to spend on raw materials and labor, how much to save for future expansion, and how much to return to shareholders as dividends. These decisions would be based on a careful analysis of the company's financial resources, market conditions, business strategy, and risk tolerance.
+  
+  In essence, the Finance model is a critical aspect of business design. It provides a framework for making strategic financial decisions, managing financial risks, and ensuring the financial health and success of the business. It also interacts with other business modeling concepts, such as the Person (ID)/Functions model, by determining the financial resources available for each function and role within the business.
+- ## 👉 Examples
+  - ### finance/examples/Space X
+    {{embed [[finance/examples/Space X]]}}
+  - ### finance/examples/vein visualizer
+    {{embed [[finance/examples/vein visualizer]]}}
+  - ### finance/examples/extinguished animals meat
+    {{embed [[finance/examples/extinguished animals meat]]}}
+  - ### finance/examples/Exotic Pet Rental
+    {{embed [[finance/examples/Exotic Pet Rental]]}}
+  - ### finance/examples/Underwater restaurant
+    {{embed [[finance/examples/Underwater restaurant]]}}
+  
+- ## 🗄️ Topics
+  
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Revenue Streams" and "Cost Structure" components directly relate to the financial aspect of a business model. Revenue Streams represent the cash a company generates from each customer segment, while the Cost Structure describes all costs incurred to operate a business model. This tool helps businesses to understand their financial health and to make strategic decisions about resource allocation.
   - [[Financial Projections]]

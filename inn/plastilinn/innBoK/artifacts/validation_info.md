@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[validation]]
 relations:: [[]]
 weight:: 90
 
-- ## Definition
+- ## 🔍 Definition
   - the process of testing and verifying the assumptions and hypotheses underlying a business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - How do we plan to validate our assumptions and hypotheses underlying our business model?
+  - What specific methods or tools should we use to test and verify these assumptions?
+  - How can we ensure that our validation process is rigorous and comprehensive?
+  - What are some common pitfalls or challenges that startups face during the validation process, and how can we avoid them?
+  - How long should we expect the validation process to take, and what milestones should we aim to achieve during this phase?
+- ## 📖 Description
   The concept of "Validation" in business modeling refers to the process of testing and verifying the assumptions and hypotheses that underpin a business model. This process is essential in ensuring that the business model is based on accurate and realistic assumptions, and that it is capable of delivering the expected results.
   
   During the validation phase, the assumptions and hypotheses of the business model are put to the test. This could involve conducting market research to validate customer segments and value propositions, running financial simulations to verify revenue streams and cost structures, or carrying out pilot projects to test key activities and partnerships.
@@ -19,7 +28,7 @@ weight:: 90
   The validation phase is not only about confirming the viability of a business model, but also about learning and adapting. It allows businesses to learn from their mistakes, adapt their strategies, and continuously improve their business models.
   
   In essence, the concept of "Validation" in business modeling is about ensuring that a business model is grounded in reality and capable of delivering success. It is a critical aspect of business design, as it directly impacts the ability of a business to survive, thrive, and grow in a competitive market.
-- ## Examples
+- ## 👉 Examples
   - ### validation/examples/Space X
     {{embed [[validation/examples/Space X]]}}
   - ### validation/examples/vein visualizer
@@ -31,9 +40,7 @@ weight:: 90
   - ### validation/examples/Underwater restaurant
     {{embed [[validation/examples/Underwater restaurant]]}}
   
-- ## Keys
-  
-- ## Topics
+- ## 🗄️ Topics
   - ### TODO #topic topic/Modelo de negocio/Ciclo de modelado de negocio/Validación
     plastilinn-type:: [[topic]] [[guide-item]]
     innbok-artifact:: [[validation]]
@@ -50,7 +57,7 @@ weight:: 90
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Validación/Método científico]]}}
   
   
-- ## Tools
+- ## 🧰 Tools
   - [[Lean Startup Methodology]]
     - Developed by Eric Ries, the Lean Startup Methodology emphasizes the importance of validating business models through a build-measure-learn feedback loop. This involves creating a minimum viable product (MVP), measuring how it performs in the market, and learning from the results to iterate or pivot the business model.
   - [[Business Model Canvas]]

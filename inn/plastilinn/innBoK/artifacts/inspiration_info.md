@@ -1,15 +1,20 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[inspiration]]
 relations:: [[]]
 weight:: 40
 
-- ## Definition
+- ## 🔍 Definition
   - Inspiration in the context of a business model refers to the creative spark that drives innovative ideas and solutions.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   In business modeling, "inspiration" refers to the creative and innovative ideas that drive the formation and evolution of a business. It is the spark that ignites the entrepreneurial spirit, leading to the development of new products, services, or business models. Inspiration can come from various sources, such as market trends, customer needs, technological advancements, or even societal changes.
   
   Inspiration is a crucial aspect of business design as it fuels the ideation process, leading to the creation of unique and competitive value propositions. It encourages businesses to think outside the box, challenge the status quo, and strive for continuous improvement. 
@@ -19,7 +24,7 @@ weight:: 40
   However, it's important to note that inspiration alone is not enough. It must be coupled with rigorous market research, strategic planning, and effective execution to translate innovative ideas into successful business ventures. 
   
   In essence, inspiration is the catalyst for business innovation and growth. It is what drives entrepreneurs to take risks, push boundaries, and create value for their customers, stakeholders, and society at large.
-- ## Examples
+- ## 👉 Examples
   - ### inspiration/examples/Space X
     {{embed [[inspiration/examples/Space X]]}}
   - ### inspiration/examples/vein visualizer
@@ -31,11 +36,9 @@ weight:: 40
   - ### inspiration/examples/Underwater restaurant
     {{embed [[inspiration/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Design Thinking]]
     - Design Thinking is a methodology that encourages businesses to focus on the people they're creating for, leading to human-centered products, services, and internal processes. The first stage of Design Thinking, Empathize, and the third stage, Ideate, are particularly relevant to the inspiration component. Empathizing involves understanding the needs of your customers, while Ideating involves brainstorming a wide range of creative solutions.
   

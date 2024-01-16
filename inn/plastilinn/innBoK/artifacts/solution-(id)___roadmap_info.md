@@ -1,15 +1,25 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/roadmap]]
 relations:: [[solution (id)]] [[solution (id)/category]] [[solution (id)/features]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - plan that outlines the steps and strategies needed to implement a business model solution.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type template.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[solution-(id)/roadmap/Solution roadmap quality]] [[*]] [[-+]]
+    key-weight:: 10
+- ## 🤖 innCoPilot
+  - If solution id___roadmap is defined as :plan that outlines the steps and strategies needed to implement a business model solution., What could it be?- How have you determined the specific solution category for your startup?
+  - What are the main characteristics, functions, or purposes that define your solution category?
+  - How does your product differentiate itself within its solution category?
+  - Have you analyzed the competition within your solution category? If so, what are the main competitors and how does your product compare to theirs?
+  - How do you plan to position your product within its solution category to attract and retain customers?
+- ## 📖 Description
   The concept of "Solution (ID)/Roadmap" in business modeling is a strategic plan that outlines the steps and strategies needed to implement a business model solution. This roadmap serves as a guide for businesses to navigate their way from their current state to their desired future state. It is a critical tool for managing change, driving alignment, and facilitating decision-making within a business.
   
   Here are the key aspects of "Solution (ID)/Roadmap" in business modeling:
@@ -23,7 +33,7 @@ weight:: 20
   - Milestones: These are the key achievements that the business aims to reach along its journey. The milestones should be significant, achievable, and aligned with the business's timeline. For example, the retail business might aim to launch its first sustainable product line within one year.
   
   By developing a "Solution (ID)/Roadmap", a business can ensure that it is moving in the right direction, making progress towards its vision, and creating value for its stakeholders. For instance, the retail business might use its roadmap to guide its transition to sustainable fashion, track its progress, and communicate its achievements to its customers, employees, and investors. This would demonstrate the business's ability to leverage its "Solution (ID)/Roadmap" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### solution-(id)/roadmap/examples/Space X
     {{embed [[solution-(id)/roadmap/examples/Space X]]}}
   - ### solution-(id)/roadmap/examples/vein visualizer
@@ -35,12 +45,9 @@ weight:: 20
   - ### solution-(id)/roadmap/examples/Underwater restaurant
     {{embed [[solution-(id)/roadmap/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[solution-(id)/roadmap/Solution roadmap quality]] [[*]] [[-+]]
-    key-weight:: 10
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Activities" component can be used to outline the steps and strategies needed to implement a business model solution. This includes the most important actions a company must take to operate successfully, such as production, problem-solving, and training.
   - [[Lean Startup Methodology]]

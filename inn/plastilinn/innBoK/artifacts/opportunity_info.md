@@ -1,15 +1,31 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[opportunity]]
 relations:: [[]]
 weight:: 40
 
-- ## Definition
+- ## 🔍 Definition
   - An opportunity is a potential area for a business to generate revenue or create value for customers within its business model.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[opportunity/Momentum]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[opportunity/Innovative approach]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[opportunity/Evolution potential]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[opportunity/Business obviousness]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  - How did you identify the opportunity for your business? 
+  - What market research have you conducted to validate the potential of this opportunity? 
+  - How do you plan to capitalize on this opportunity and generate revenue? 
+  - Have you identified any potential risks or challenges associated with this opportunity? 
+  - How does this opportunity align with your target customers' needs and preferences?
+- ## 📖 Description
   In business modeling, the concept of "opportunity" refers to a set of circumstances that makes it possible for a business to achieve specific, strategic goals. Opportunities can arise from a variety of sources, such as changes in market trends, technological advancements, shifts in customer needs or behaviors, or regulatory changes. 
   
   Opportunities are a crucial component of a business model as they provide the basis for the creation of value. They represent potential avenues for growth and profitability, and they guide the strategic decisions that a business makes in terms of its products, services, operations, and market positioning. 
@@ -17,7 +33,7 @@ weight:: 40
   For example, a software company might identify an opportunity in the growing demand for remote work solutions. This opportunity could guide the company's product development efforts, leading to the creation of a new software solution that enables efficient remote collaboration. 
   
   In essence, the concept of "opportunity" in business modeling is about identifying and capitalizing on the potential for growth and value creation. It is a critical element in business design, driving strategic decision-making, innovation, and competitive positioning. It shapes the business's strategies for product development, market entry, customer engagement, and revenue generation.
-- ## Examples
+- ## 👉 Examples
   - ### opportunity/examples/Space X
     {{embed [[opportunity/examples/Space X]]}}
   - ### opportunity/examples/vein visualizer
@@ -29,16 +45,7 @@ weight:: 40
   - ### opportunity/examples/Underwater restaurant
     {{embed [[opportunity/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[opportunity/Momentum]] [[***]] [[-+]]
-    key-weight:: 60
-  - #key [[opportunity/Innovative approach]] [[**]] [[-+]]
-    key-weight:: 40
-  - #key [[opportunity/Evolution potential]] [[**]] [[-+]]
-    key-weight:: 30
-  - #key [[opportunity/Business obviousness]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
     - ### TODO #topic topic/What is a business?
       plastilinn-type:: [[topic]] [[guide-item]]
       innbok-artifact:: [[opportunity]]
@@ -54,7 +61,7 @@ weight:: 40
       innbok-artifact:: [[opportunity]]
       - {{embed [[topic/Idea/Business opportunity]]}}
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "opportunity" component can be related to the "value proposition" block. This block describes the unique value that a company offers to its customers. It's where the company identifies opportunities to create and deliver new value to its customers. 
   - [[SWOT Analysis]]

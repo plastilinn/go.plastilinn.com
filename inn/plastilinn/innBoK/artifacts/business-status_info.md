@@ -1,15 +1,20 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-status]]
 relations:: [[]]
 weight:: 70
 
-- ## Definition
+- ## 🔍 Definition
   - The business state refers to the current condition or status of a business, including its operations, performance, and market position.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   In business modeling, "business status" refers to the current position or condition of a company in terms of its financial health, operational efficiency, market position, and overall performance. It is a snapshot of the company's situation at a particular point in time, providing a basis for decision-making, planning, and strategy development. Business status is a crucial component of a business model as it provides the context in which the company operates and influences its strategic choices and actions.
   
   A business status typically includes the following elements:
@@ -23,7 +28,7 @@ weight:: 70
   - Organizational Health: This includes factors such as employee engagement, leadership effectiveness, culture, and innovation. It provides insights into the company's internal environment and its capacity for change and growth.
   
   For example, a company's business status might show that it has strong financial performance, high operational efficiency, a leading market position, and a healthy organizational culture. This status would suggest that the company is in a strong position to pursue aggressive growth strategies, invest in new opportunities, and withstand competitive pressures. On the other hand, if the company's business status reveals financial difficulties, operational problems, a weak market position, or organizational issues, it might need to focus on turnaround strategies, cost reduction, process improvement, or organizational change.
-- ## Examples
+- ## 👉 Examples
   - ### business-status/examples/Space X
     {{embed [[business-status/examples/Space X]]}}
   - ### business-status/examples/vein visualizer
@@ -35,11 +40,9 @@ weight:: 70
   - ### business-status/examples/Underwater restaurant
     {{embed [[business-status/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Balanced Scorecard]]
     - The Balanced Scorecard, developed by Robert Kaplan and David Norton, is a strategic planning and management system that organizations use to monitor and manage their performance. The business status is reflected in the four perspectives of the scorecard: financial, customer, internal process, and learning and growth. Each perspective includes specific performance metrics that provide a comprehensive view of the business's current status.
   - [[Key Performance Indicators (KPIs)]]

@@ -1,15 +1,27 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[funding-strategy]]
 relations:: [[]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - A funding strategy is a plan outlining how a business will secure financial resources to support its operations and growth.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[funding-strategy/Sufficient funding]] [[*****]] [[-+]]
+    key-weight:: 90
+  - #key [[funding-strategy/Access to Capital]] [[***]] [[-+]]
+    key-weight:: 45
+- ## 🤖 innCoPilot
+  - If funding strategy is defined as :A funding strategy is a plan outlining how a business will secure financial resources to support its operations and growth., What could it be?- What assumptions are you making in your cashflow projections?
+  - How did you determine the expected inflows and outflows of cash?
+  - Are you considering any potential risks or uncertainties that could affect the cashflow projections?
+  - What measures are you taking to ensure accurate tracking and management of cashflow?
+  - How often will you be revisiting and updating the cashflow projections to reflect any changes in the business environment?
+- ## 📖 Description
   A funding strategy in business modeling is a comprehensive plan that outlines how a business will secure the necessary financial resources to support its operations and growth. This strategy is a critical component of business design as it provides a roadmap for financial sustainability and scalability. 
   
   Here are the key aspects of a "Funding Strategy" in business modeling:
@@ -27,7 +39,7 @@ weight:: 30
   - Investor Relations: If external funding is part of the strategy, maintaining strong relationships with investors is crucial. This involves regular communication, transparency, and demonstrating a strong return on investment.
   
   For instance, a tech startup might use a funding strategy to secure venture capital funding, outlining how the funds will be used to develop their product, scale their operations, and enter new markets. This would demonstrate the startup's ability to leverage a "Funding Strategy" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### funding-strategy/examples/Space X
     {{embed [[funding-strategy/examples/Space X]]}}
   - ### funding-strategy/examples/vein visualizer
@@ -39,14 +51,9 @@ weight:: 30
   - ### funding-strategy/examples/Underwater restaurant
     {{embed [[funding-strategy/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[funding-strategy/Sufficient funding]] [[*****]] [[-+]]
-    key-weight:: 90
-  - #key [[funding-strategy/Access to Capital]] [[***]] [[-+]]
-    key-weight:: 45
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Cost Structure" and "Revenue Streams" components can be used to outline a company's funding strategy. The "Cost Structure" describes all costs incurred to operate a business model, while "Revenue Streams" represents the cash a company generates from each customer segment. Both components can help in determining how a business will secure financial resources to support its operations and growth.
   - [[SWOT Analysis]]

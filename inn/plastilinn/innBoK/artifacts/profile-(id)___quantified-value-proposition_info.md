@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/quantified-value-proposition]]
 relations:: [[profile (id)]] [[profile (id)/value proposition]] [[profile (id)/segmentation]] [[profile (id)/goals]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - An argumentation. Based on metrics of the amount of value that the user receives when using our solution.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If profile id___quantified value proposition is defined as :An argumentation. Based on metrics of the amount of value that the user receives when using our solution., What could it be?- What are the primary emotions that our stakeholders feel when interacting with our product or service?
+  - How can we empathize with our stakeholders' emotions to better understand their needs and desires?
+  - Are there any specific emotions that we should focus on when designing our value proposition to ensure it resonates with our stakeholders?
+  - How can we measure and track the emotions our stakeholders feel throughout their customer journey?
+  - What strategies can we implement to evoke positive emotions and minimize negative emotions in our stakeholders when using our product or service?
+- ## 📖 Description
   The concept of "Profile (ID)/Quantified Value Proposition" in business modeling is an argumentation based on metrics of the amount of value that the user receives when using a company's solution. It is a strategic tool used to communicate the unique value that a product or service provides to its target audience, quantified in terms of specific benefits.
   
   In this model, businesses use various tools and techniques to gather and analyze data about the value their solution provides. This could involve conducting user research, analyzing market research and user data, and measuring the impact of their solution on key performance indicators (KPIs). The goal is to quantify the value proposition in a way that is meaningful and compelling to the target audience.
@@ -19,7 +28,7 @@ weight:: 20
   Alternatively, a fitness app might quantify its value proposition by stating that users who use their app for 30 minutes a day, 5 days a week, see an average weight loss of 10 pounds in 3 months. These figures are based on user data and research, and provide a clear and compelling argument for the value of the app.
   
   The "Profile (ID)/Quantified Value Proposition" concept in business modeling is crucial because it helps businesses to communicate the unique value of their solution in a way that is meaningful and compelling to their target audience. This can lead to increased user adoption, satisfaction, and loyalty, and ultimately, business success.
-- ## Examples
+- ## 👉 Examples
   - ### profile-(id)/quantified-value-proposition/examples/Space X
     {{embed [[profile-(id)/quantified-value-proposition/examples/Space X]]}}
   - ### profile-(id)/quantified-value-proposition/examples/vein visualizer
@@ -31,11 +40,9 @@ weight:: 20
   - ### profile-(id)/quantified-value-proposition/examples/Underwater restaurant
     {{embed [[profile-(id)/quantified-value-proposition/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Value Proposition" is a key component that describes the unique value a company offers to its customers. This value is often quantified in terms of benefits minus cost. It's crucial to understand the customer profile (id) to tailor the value proposition to meet their specific needs and expectations.
   - [[Value Proposition Canvas]]

@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[resource-list]]
@@ -5,16 +6,27 @@ item-classes:: #[[asset]]
 relations:: [[business]] [[operations]]
 weight:: 40
 
-- ## Definition
+- ## 🔍 Definition
   - the assets, capabilities, and infrastructure a business uses to create and deliver value to its customers.
-- ## Content type (asset)
+- ## 📰 Content type (asset)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[asset]]
       - {{embed [[asset]]}}
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[resource-list/Resilient supply chain management]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[resource-list/Financial needs]] [[**]] [[-+]]
+    key-weight:: 40
+- ## 🤖 innCoPilot
+  - If resources is defined as :the assets, capabilities, and infrastructure a business uses to create and deliver value to its customers., What could it be?- What specific activities will our startup engage in to create value for our customers?
+  - How will these activities differentiate us from our competitors?
+  - Are there any specific tasks or processes that we should prioritize or focus on to ensure the success of our startup?
+  - How will our activities contribute to the overall customer experience and satisfaction?
+  - Are there any potential risks or challenges associated with our chosen activities, and how can we mitigate them effectively?
+- ## 📖 Description
   The concept of "resource list" in business modeling refers to the tangible and intangible assets, capabilities, and infrastructure that a business utilizes to create and deliver value to its customers. This can encompass a wide range of resources, from physical assets like buildings and equipment, to human resources like employees and their skills, to intellectual property like patents and trademarks.
   
   The resource list is a critical component of a business model because it outlines the foundational elements that a company needs to operate effectively and competitively. It provides a clear picture of what the company has at its disposal to create its products or services, serve its customers, and achieve its business objectives.
@@ -26,7 +38,7 @@ weight:: 40
   In the context of business modeling, the resource list is often used to inform strategic planning and decision-making. It can help the company determine where to invest its resources, how to allocate them effectively, and how to leverage them to create and deliver value to its customers.
   
   In essence, the concept of "resource list" in business modeling is about identifying and understanding the key resources that a company needs to operate and succeed. It's a crucial aspect of business design, as it can significantly impact a company's operational efficiency, competitive advantage, and overall business performance.
-- ## Examples
+- ## 👉 Examples
   - ### resource-list/examples/Space X
     {{embed [[resource-list/examples/Space X]]}}
   - ### resource-list/examples/vein visualizer
@@ -38,14 +50,9 @@ weight:: 40
   - ### resource-list/examples/Underwater restaurant
     {{embed [[resource-list/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[resource-list/Resilient supply chain management]] [[***]] [[-+]]
-    key-weight:: 50
-  - #key [[resource-list/Financial needs]] [[**]] [[-+]]
-    key-weight:: 40
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Resources" block refers to the most important assets necessary to make a business model work. These resources allow an enterprise to create and offer a value proposition, reach markets, maintain relationships with customer segments, and earn revenues. They can be physical, intellectual, human, or financial.
   - [[Value Chain Analysis]]

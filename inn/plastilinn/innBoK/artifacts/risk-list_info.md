@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[risk-list]]
@@ -5,16 +6,29 @@ item-classes:: #[[risk]]
 relations:: [[]]
 weight:: 90
 
-- ## Definition
+- ## 🔍 Definition
   - potential negative outcomes or uncertainties that may affect the success and sustainability of a business model.
-- ## Content type (risk)
+- ## 📰 Content type (risk)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[risk]]
       - {{embed [[risk]]}}
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[risk-list/Risk Identification]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[risk-list/Crisis Management]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[risk-list/Contingency Plans]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  - If risks is defined as :potential negative outcomes or uncertainties that may affect the success and sustainability of a business model., What could it be?- What is the key problem or pain point that our startup is addressing?
+  - How unique and innovative is our solution compared to existing alternatives in the market?
+  - What are the key features or functionalities of our product___service that differentiate us from competitors?
+  - What is our target market and how big is the potential customer base?
+  - How do we plan to acquire and retain customers, and what is our customer acquisition cost (CAC) strategy?
+- ## 📖 Description
   The concept of a Risk List in business modeling refers to the identification and documentation of potential negative outcomes or uncertainties that may affect the success and sustainability of a business model. This concept is rooted in the understanding that every business operates in an environment of uncertainty and risk, and that proactive risk management is crucial for business survival and growth.
   
   In the context of business design, a Risk List can take many forms. It could be a list of potential market risks such as changes in customer preferences, competitive threats, or regulatory changes. It could also include operational risks such as supply chain disruptions, technology failures, or talent shortages. Financial risks such as currency fluctuations, interest rate changes, or liquidity issues may also be included. 
@@ -28,7 +42,7 @@ weight:: 90
   Lastly, a Risk List can improve stakeholder communication and trust. By transparently communicating about potential risks and their management strategies, businesses can build trust with stakeholders, including investors, customers, employees, and regulators.
   
   In summary, the Risk List model in business design is a strategic approach that involves identifying, documenting, and managing potential negative outcomes or uncertainties that may affect the success and sustainability of a business model. It is a crucial tool for enhancing business resilience, strategic planning, stakeholder communication, and overall business performance.
-- ## Examples
+- ## 👉 Examples
   - ### risk-list/examples/Space X
     {{embed [[risk-list/examples/Space X]]}}
   - ### risk-list/examples/vein visualizer
@@ -40,14 +54,7 @@ weight:: 90
   - ### risk-list/examples/Underwater restaurant
     {{embed [[risk-list/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[risk-list/Risk Identification]] [[***]] [[-+]]
-    key-weight:: 50
-  - #key [[risk-list/Crisis Management]] [[**]] [[-+]]
-    key-weight:: 30
-  - #key [[risk-list/Contingency Plans]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
   - ### TODO #topic topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Riesgos
     plastilinn-type:: [[topic]] [[guide-item]]
     innbok-artifact:: [[risk-list]]
@@ -58,7 +65,7 @@ weight:: 90
     innbok-artifact:: [[risk-list]]
     - {{embed [[topic/Modelo de negocio/Ciclo de modelado de negocio/Análisis/Gestión de riesgos]]}}
   
-- ## Tools
+- ## 🧰 Tools
   - [[Risk Management Plan]]
     - A Risk Management Plan is a document that a project manager prepares to foresee risks, estimate impacts, and define responses to issues. It also contains a risk assessment matrix. A risk is "an uncertain event or condition that, if it occurs, has a positive or negative effect on a project’s objectives." This tool is used to identify potential risks in the early stages of a project and is a part of the overall project management plan.
   - [[SWOT Analysis]]

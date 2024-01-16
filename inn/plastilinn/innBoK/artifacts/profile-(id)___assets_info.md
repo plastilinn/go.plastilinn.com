@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/assets]]
@@ -5,16 +6,24 @@ item-classes:: #[[asset]]
 relations:: [[profile (id)]] [[solution id___offerings]] [[resources]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - Assets that our clients have...advantages for our business model
-- ## Content type (asset)
+- ## 📰 Content type (asset)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[asset]]
       - {{embed [[asset]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If profile id___assets is defined as :Assets that our clients have...advantages for our business model, What could it be?- What are the key messages that we should communicate to our target audience through our profile ID___messages?
+  - How can we ensure that these messages effectively convey the value proposition of our startup?
+  - Are there any specific actions that we want our target audience to take after receiving these messages? If so, how can we make sure that they are motivated to take these actions?
+  - How can we differentiate our messages from those of our competitors in order to stand out and attract the attention of our target audience?
+  - What channels or platforms would be most effective for delivering these messages to our target audience?
+- ## 📖 Description
   The concept of "Profile (ID)/Assets" in business modeling refers to the tangible and intangible resources that a company's clients possess and that can be leveraged for the benefit of the business. These assets can range from physical properties to skills, knowledge, relationships, and other forms of capital that the clients have. Understanding and utilizing these assets can provide significant advantages to a company's business model.
   
   Here are the key aspects of "Profile (ID)/Assets" in business modeling:
@@ -28,7 +37,7 @@ weight:: 30
   - Client's Financial Assets: These are the financial resources that clients have. A company can leverage these assets to fund its growth, innovation, and sustainability. For example, a startup might utilize its clients' investments to finance its research and development and scale its business.
   
   By understanding and leveraging these "Profile (ID)/Assets", a company can enhance its business model, create more value, and achieve greater success. For instance, a software company might identify that its clients have significant technical skills. The company might then develop more advanced software that these skilled clients can use, thereby enhancing its product offering, customer satisfaction, and competitive advantage. This would demonstrate the company's ability to leverage its understanding of "Profile (ID)/Assets" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### profile-(id)/assets/examples/Space X
     {{embed [[profile-(id)/assets/examples/Space X]]}}
   - ### profile-(id)/assets/examples/vein visualizer
@@ -40,11 +49,9 @@ weight:: 30
   - ### profile-(id)/assets/examples/Underwater restaurant
     {{embed [[profile-(id)/assets/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "Key Resources" can be seen as the assets that a company has. These resources could be physical, intellectual, human, or financial. Understanding these assets can help a company to identify its competitive advantages and how these can be leveraged in the business model.
   - [[Value Chain Analysis]]

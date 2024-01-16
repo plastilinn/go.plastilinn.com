@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/profiles]]
@@ -5,16 +6,24 @@ item-classes:: #[[profile]]
 relations:: [[segment (id)]] [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - List of different profiles that can be useful to define. It's my client.
-- ## Content type (profile)
+- ## 📰 Content type (profile)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[profile]]
       - {{embed [[profile]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If segment id___profiles is defined as :List of different profiles that can be useful to define. It's my client., What could it be?- Who are our main competitors in the market?
+  - What unique value proposition do we offer compared to our competitors?
+  - How do our competitors currently address the same problems our startup aims to solve?
+  - What is the market share of our competitors, and how do we plan to capture a portion of that market?
+  - Are there any emerging competitors or potential disruptors in the industry that we should be aware of?
+- ## 📖 Description
   The concept of "segment (id)/profiles" in business modeling refers to the identification and characterization of distinct groups within a company's market, based on shared characteristics or behaviors. These profiles are created after the segmentation process and provide a more detailed understanding of each segment.
   
   Segment profiles can include a wide range of information, such as demographic details, buying behaviors, needs, preferences, lifestyle characteristics, and more. The goal is to create a comprehensive picture of each segment, which can then be used to tailor products, services, and marketing efforts to meet the specific needs and preferences of each group.
@@ -22,7 +31,7 @@ weight:: 20
   For instance, a car manufacturer might identify a segment of customers who are environmentally conscious and prefer electric vehicles. The profile for this segment might include details such as average age, income level, common values (such as sustainability), and typical buying behaviors (such as a willingness to pay a premium for eco-friendly products). This profile would then inform the development of products and marketing strategies targeted specifically at this group.
   
   In essence, the concept of "segment (id)/profiles" in business modeling is about creating detailed portraits of each customer group, based on shared characteristics and behaviors. This allows a company to better understand its customers and tailor its offerings and marketing efforts accordingly, leading to improved customer satisfaction and business performance. It is a key component of business design, informing the development of a company's products, services, and marketing strategies.
-- ## Examples
+- ## 👉 Examples
   - ### segment-(id)/profiles/examples/Space X
     {{embed [[segment-(id)/profiles/examples/Space X]]}}
   - ### segment-(id)/profiles/examples/vein visualizer
@@ -34,11 +43,9 @@ weight:: 20
   - ### segment-(id)/profiles/examples/Underwater restaurant
     {{embed [[segment-(id)/profiles/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "customer segments" are one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. It's important to identify and understand these segments to tailor the value proposition, channels, and customer relationships to their specific needs.
   - [[Value Proposition Canvas]]

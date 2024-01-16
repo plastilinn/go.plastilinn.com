@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[organization-values]]
 relations:: [[business objectives]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type list.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If business values is defined as :the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders., What could it be?- What is the overall mission of our startup?
+  - How does our mission align with the goals and values of our target market?
+  - How can we ensure that our mission is effectively communicated to our customers and stakeholders?
+  - Are there any potential challenges or obstacles that could hinder us from fulfilling our mission?
+  - How will the achievement of our mission contribute to the long-term success and sustainability of our startup?
+- ## 📖 Description
   In business modeling, the concept of "organization values" refers to the core principles or standards that guide a company's actions and decisions. These values are deeply ingrained in the company's culture and serve as a compass for its behavior, shaping its interactions with stakeholders, its approach to business, and its overall identity.
   
   Organization values are a critical component of a business model because they define what the company stands for and what it believes in. They influence every aspect of the business, from its mission and vision to its strategies and operations. They also play a key role in attracting and retaining employees, customers, and partners who share the same values.
@@ -17,7 +26,7 @@ weight:: 50
   For example, a company might have organization values centered around innovation, customer satisfaction, and social responsibility. These values would guide the company's actions and decisions, leading it to invest in research and development, prioritize customer needs, and engage in sustainable practices.
   
   In essence, the concept of "organization values" in business modeling is about defining and embodying the principles that drive a company's actions and decisions. It is a fundamental element in business design, shaping the company's culture, strategy, and brand identity. It influences how the company is perceived by its stakeholders and how it contributes to society at large.
-- ## Examples
+- ## 👉 Examples
   - ### organization-values/examples/Space X
     {{embed [[organization-values/examples/Space X]]}}
   - ### organization-values/examples/vein visualizer
@@ -29,11 +38,9 @@ weight:: 50
   - ### organization-values/examples/Underwater restaurant
     {{embed [[organization-values/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Corporate Culture Health Check]]
     - This tool, developed by Denison Consulting, assesses the alignment of an organization's values with its practices. It measures four key traits: adaptability, mission, involvement, and consistency. The latter directly relates to the organization's values, as it measures the extent to which the organization's behavior is consistent with its stated values.
   

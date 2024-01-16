@@ -1,15 +1,20 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[person-(id)/outputs]]
 relations:: [[person (id)]] [[]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - In the context of a business model, a person (ID)/output refers to the individuals or entities that generate value for the business.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type list.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   The concept of "Person (ID)/Outputs" in business modeling refers to the individuals or entities that generate value for the business. This could be anyone from employees, to partners, to customers, depending on the specific business model. 
   
   In this context, the "Person (ID)" represents the unique identifier for the individual or entity, which allows the business to track and manage its relationships with these value generators. This could be an employee ID number, a partner company's name, or a customer's account number, for example.
@@ -19,7 +24,7 @@ weight:: 50
   For example, in a manufacturing business, the "Person (ID)" could be the employees who operate the production line, and the "Outputs" could be the products they produce. In a consulting business, the "Person (ID)" could be the consultants, and the "Outputs" could be the advice and solutions they provide to clients. In a retail business, the "Person (ID)" could be the customers, and the "Outputs" could be the revenue they generate through their purchases.
   
   In essence, the concept of "Person (ID)/Outputs" in business modeling is about identifying and tracking the individuals or entities that generate value for the business, and the specific forms of value they generate. This is a crucial aspect of business design, as it helps the business to understand where its value comes from, manage its relationships with its value generators, and optimize its operations to maximize this value.
-- ## Examples
+- ## 👉 Examples
   - ### person-(id)/outputs/examples/Space X
     {{embed [[person-(id)/outputs/examples/Space X]]}}
   - ### person-(id)/outputs/examples/vein visualizer
@@ -31,11 +36,9 @@ weight:: 50
   - ### person-(id)/outputs/examples/Underwater restaurant
     {{embed [[person-(id)/outputs/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "Key Activities" and "Key Resources" often refer to the people or entities that generate value for the business. These could be employees, partners, or even customers themselves (in the case of user-generated content, for example). The "Value Propositions" and "Customer Relationships" components also often involve people as they are about the value delivered to customers and the type of relationship the company establishes with them.
   - [[Value Chain Analysis]]

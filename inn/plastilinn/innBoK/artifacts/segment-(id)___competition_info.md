@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/competition]]
@@ -5,16 +6,29 @@ item-classes:: #[[stakeholder]]
 relations:: [[segment (id)]] [[]]
 weight:: 40
 
-- ## Definition
+- ## 🔍 Definition
   - Entities or organizations or people who are trying to solve the same problems. For the same clients.
-- ## Content type (stakeholder)
+- ## 📰 Content type (stakeholder)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[stakeholder]]
       - {{embed [[stakeholder]]}}
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[segment-(id)/competition/Competitive Advantage]] [[****]] [[-+]]
+    key-weight:: 65
+  - #key [[segment-(id)/competition/Competitive landscape]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[segment-(id)/competition/Competitor Analysis]] [[**]] [[-+]]
+    key-weight:: 40
+- ## 🤖 innCoPilot
+  - If segment id___competition is defined as :Entities or organizations or people who are trying to solve the same problems. For the same clients., What could it be?- How have you identified the specific customer groups that your startup will target?
+  - What methods or tools did you use to analyze the evolving needs and preferences of these customer groups?
+  - Have you considered any potential changes in the market trends that could impact the needs and preferences of your target customer groups?
+  - How will you ensure that your business model is adaptable to the evolving needs and preferences of your target customer groups?
+  - Have you conducted any market research or surveys to validate the identified customer groups and their evolving needs and preferences?
+- ## 📖 Description
   The concept of "Competition" in business modeling refers to the analysis and understanding of other businesses that offer similar products or services in the same market. This involves identifying who these competitors are, understanding their strategies, strengths, and weaknesses, and determining how they could potentially impact your business.
   
   In the "Competition" model, businesses use various tools and techniques to gather and analyze information about their competitors. This could involve conducting market research, analyzing competitors' marketing strategies, assessing their product offerings, and monitoring their pricing strategies. The goal is to gain a comprehensive understanding of the competitive landscape and to identify opportunities and threats.
@@ -24,7 +38,7 @@ weight:: 40
   Alternatively, a tech startup might analyze the competition in its industry to understand the key features and benefits of competing products, the marketing strategies being used, and the overall market share of different competitors. This information could then be used to develop a product that offers unique features or benefits, or to create a marketing strategy that differentiates the startup from its competitors.
   
   The "Competition" concept in business modeling is crucial because it helps businesses to understand the competitive landscape and to develop strategies that will allow them to compete effectively. This can lead to increased market share, customer loyalty, and ultimately, business success.
-- ## Examples
+- ## 👉 Examples
   - ### segment-(id)/competition/examples/Space X
     {{embed [[segment-(id)/competition/examples/Space X]]}}
   - ### segment-(id)/competition/examples/vein visualizer
@@ -36,16 +50,9 @@ weight:: 40
   - ### segment-(id)/competition/examples/Underwater restaurant
     {{embed [[segment-(id)/competition/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[segment-(id)/competition/Competitive Advantage]] [[****]] [[-+]]
-    key-weight:: 65
-  - #key [[segment-(id)/competition/Competitive landscape]] [[***]] [[-+]]
-    key-weight:: 50
-  - #key [[segment-(id)/competition/Competitor Analysis]] [[**]] [[-+]]
-    key-weight:: 40
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "competition" is not explicitly mentioned but is an integral part of the "market forces" in the environment map. This includes the competitive landscape, market segments, needs and demands, market issues, and switching costs. Understanding the competition helps in defining the value proposition and customer segments.
   - [[Porter's Five Forces]]

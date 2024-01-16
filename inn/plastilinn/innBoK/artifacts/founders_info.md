@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[founders]]
@@ -5,16 +6,29 @@ item-classes:: #[[person]]
 relations:: [[]]
 weight:: 70
 
-- ## Definition
+- ## 🔍 Definition
   - Founders refer to the individuals who establish and initiate a business venture, taking on the role of its originators.
-- ## Content type (person)
+- ## 📰 Content type (person)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[person]]
       - {{embed [[person]]}}
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[founders/Founder's capacity]] [[****]] [[-+]]
+    key-weight:: 65
+  - #key [[founders/Founder's commitment]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[founders/Leadership Skills]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[founders/Attitude for improvement]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[founders/Founder's circumstances]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   The concept of "Founders" in business modeling refers to the individuals who establish and initiate a business venture, taking on the role of its originators. These are the people who bring the business idea to life, taking the initial risk and responsibility for its success or failure. 
   
   Founders are typically involved in all aspects of the business, from conceptualizing the idea, to planning and executing the business model, to managing the day-to-day operations. They are often the driving force behind the business, providing the vision, leadership, and strategic direction that guides its growth and development.
@@ -24,7 +38,7 @@ weight:: 70
   The concept of "Founders" is also important in understanding the dynamics and relationships within the business. Founders often have a significant influence on the culture and values of the business, and their leadership style can impact the behavior and performance of other stakeholders. 
   
   In conclusion, the concept of "Founders" is a key element in business design and modeling. It highlights the role of the individuals who initiate and drive the business venture, and it provides a framework for understanding their influence on the business model, the resources, and the culture of the business.
-- ## Examples
+- ## 👉 Examples
   - ### founders/examples/Space X
     {{embed [[founders/examples/Space X]]}}
   - ### founders/examples/vein visualizer
@@ -36,20 +50,9 @@ weight:: 70
   - ### founders/examples/Underwater restaurant
     {{embed [[founders/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[founders/Founder's capacity]] [[****]] [[-+]]
-    key-weight:: 65
-  - #key [[founders/Founder's commitment]] [[***]] [[-+]]
-    key-weight:: 55
-  - #key [[founders/Leadership Skills]] [[**]] [[-+]]
-    key-weight:: 40
-  - #key [[founders/Attitude for improvement]] [[**]] [[-+]]
-    key-weight:: 30
-  - #key [[founders/Founder's circumstances]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Partnerships" component can be related to the founders. This section identifies the network of suppliers and partners that make the business model work, which is often established by the founders. The founders' vision, connections, and strategic decisions play a crucial role in shaping these partnerships.
   - [[SWOT Analysis]]

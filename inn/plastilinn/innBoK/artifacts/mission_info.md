@@ -1,15 +1,27 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[mission]]
 relations:: [[business objectives]]
 weight:: 60
 
-- ## Definition
+- ## 🔍 Definition
   - the purpose or reason for the existence of a business, including its goals and values.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[mission/Realism - Ambition]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[mission/Clarity of Conception]] [[*]] [[-+]]
+    key-weight:: 20
+- ## 🤖 innCoPilot
+  - If mission is defined as :the purpose or reason for the existence of a business, including its goals and values., What could it be?- How did you identify the opportunity for your business? 
+  - What market research have you conducted to validate the potential of this opportunity? 
+  - How do you plan to capitalize on this opportunity and generate revenue? 
+  - Have you identified any potential risks or challenges associated with this opportunity? 
+  - How does this opportunity align with your target customers' needs and preferences?
+- ## 📖 Description
   In business modeling, the concept of "mission" refers to the fundamental purpose or reason for the existence of a business. It is the driving force behind all business decisions and actions, providing a clear direction and focus for the organization. The mission is typically expressed in a mission statement, which is a brief, concise declaration of the business's core purpose.
   
   The mission is a critical component of a business model as it defines the business's overall goals and guides its strategies and operations. It communicates what the business does, who it serves, and how it provides value to its customers or clients. The mission also serves as a motivational tool, inspiring employees and stakeholders to work towards the common goal.
@@ -17,7 +29,7 @@ weight:: 60
   For example, the mission of a non-profit organization might be "to provide educational opportunities for underprivileged children." This mission guides all of the organization's activities, from fundraising to program development. It also communicates to stakeholders - including donors, volunteers, and the community - what the organization is striving to achieve.
   
   In essence, the concept of "mission" in business modeling is about defining and articulating the fundamental purpose of a business. It is a crucial element in business design, providing direction, focus, and motivation, and shaping the business's strategies and operations.
-- ## Examples
+- ## 👉 Examples
   - ### mission/examples/Space X
     {{embed [[mission/examples/Space X]]}}
   - ### mission/examples/vein visualizer
@@ -29,14 +41,9 @@ weight:: 60
   - ### mission/examples/Underwater restaurant
     {{embed [[mission/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[mission/Realism - Ambition]] [[**]] [[-+]]
-    key-weight:: 30
-  - #key [[mission/Clarity of Conception]] [[*]] [[-+]]
-    key-weight:: 20
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "mission" is not explicitly represented as a separate component. However, it is implicitly embedded in the "value proposition" and "customer segments" components. The value proposition reflects what the business stands for and what it offers to its customers, while the customer segments reflect who the business serves, both of which should align with the mission.
   - [[Vision and Mission Statements]]

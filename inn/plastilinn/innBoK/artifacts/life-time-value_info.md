@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[life-time-value]]
 relations:: [[]]
 weight:: 50
 
-- ## Definition
+- ## 🔍 Definition
   - Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If life time value is defined as :Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business., What could it be?- What are the key assets that our business will need to create and deliver value to customers?
+  - How can we ensure that we have the necessary capabilities and skills to effectively utilize these assets?
+  - What infrastructure or technological resources will be essential for our business operations?
+  - Are there any specific resources that are currently lacking or need to be improved upon in order to enhance our value proposition?
+  - How can we optimize the allocation of resources to maximize value creation and customer satisfaction?
+- ## 📖 Description
   The concept of "Lifetime Value" in business modeling refers to the total net present value of the revenue that a customer is expected to generate over the course of their relationship with a business. This is a crucial component of business design as it helps businesses understand the long-term financial value of their customers and informs strategic decisions about sales, marketing, product development, and customer support.
   
   Here are the key aspects of "Lifetime Value" in business modeling:
@@ -25,7 +34,7 @@ weight:: 50
   - Profit Margin: This is the profit made from each customer after subtracting the costs associated with serving them. The higher the profit margin, the higher the customer's lifetime value.
   
   By understanding and optimizing these aspects of "Lifetime Value", a business can maximize the profitability of its customer relationships. For instance, a subscription-based software company might invest in customer service and product enhancements to increase customer retention and, therefore, lifetime value. This would demonstrate the company's ability to leverage "Lifetime Value" to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### life-time-value/examples/Space X
     {{embed [[life-time-value/examples/Space X]]}}
   - ### life-time-value/examples/vein visualizer
@@ -37,11 +46,9 @@ weight:: 50
   - ### life-time-value/examples/Underwater restaurant
     {{embed [[life-time-value/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Customer Lifetime Value (CLV) Model]]
     - This model is specifically designed to calculate the total revenue a business can reasonably expect from a single customer account. It considers a customer's revenue value and compares that number to the company's predicted customer lifespan. Businesses use this prediction to identify significant customer segments that are the most valuable to the company.
   - [[Net Present Value (NPV) Method]]

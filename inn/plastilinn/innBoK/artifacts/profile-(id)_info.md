@@ -1,15 +1,27 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[profile-(id)]]
 relations:: [[]]
 weight:: 70
 
-- ## Definition
+- ## 🔍 Definition
   - A definition. Of who our client is. Narrowing down the segmentation criteria to specific values.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[profile-(id)/Customer Understanding]] [[****]] [[-+]]
+    key-weight:: 75
+  - #key [[profile-(id)/Customer retention]] [[***]] [[-+]]
+    key-weight:: 60
+- ## 🤖 innCoPilot
+  - If profile id is defined as :A definition. Of who our client is. Narrowing down the segmentation criteria to specific values., What could it be?- Who are the key decision-makers involved in the purchasing decision of our product or service?
+  - What roles do these decision-makers typically hold within the customer organizations?
+  - Are there any specific departments or individuals within the customer organizations that have a significant influence on the purchasing decision?
+  - How do these decision-makers typically interact with each other during the purchasing process?
+  - Are there any external influencers or advisors that play a role in the purchasing decision, such as consultants or industry experts?
+- ## 📖 Description
   In business modeling, "Profile (ID)" refers to the detailed description and analysis of specific elements within a business model, such as customers, competitors, or products. This concept is essential in a business model as it provides a comprehensive understanding of these elements, enabling companies to make informed decisions and devise effective strategies.
   
   Profile ID typically involves the following aspects:
@@ -21,7 +33,7 @@ weight:: 70
   - Product Profile: This involves a comprehensive description of a company's products or services, including their features, benefits, pricing, and positioning. For example, a company might create a profile for a product that is high-quality, competitively priced, and positioned as a luxury item. This allows the company to understand its product's appeal and value proposition, and formulate effective product strategies.
   
   For instance, a company might create a profile for a segment of customers who are environmentally conscious and prefer eco-friendly products. The company might also create a profile for a competitor who is known for its sustainable practices and popular among these customers. Based on these profiles, the company might decide to develop and market a new line of eco-friendly products to meet the needs of these customers and compete effectively with this competitor. This would demonstrate the company's ability to leverage its understanding of Profile (ID) to drive its business model and create value.
-- ## Examples
+- ## 👉 Examples
   - ### profile-(id)/examples/Space X
     {{embed [[profile-(id)/examples/Space X]]}}
   - ### profile-(id)/examples/vein visualizer
@@ -33,14 +45,9 @@ weight:: 70
   - ### profile-(id)/examples/Underwater restaurant
     {{embed [[profile-(id)/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[profile-(id)/Customer Understanding]] [[****]] [[-+]]
-    key-weight:: 75
-  - #key [[profile-(id)/Customer retention]] [[***]] [[-+]]
-    key-weight:: 60
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Customer Segments" block is where the business defines who its customers are. This includes identifying different segments and understanding their specific needs, characteristics, and behaviors. This is where the profile (id) component comes into play, as it helps to narrow down the segmentation criteria to specific values.
   - [[Value Proposition Canvas]]

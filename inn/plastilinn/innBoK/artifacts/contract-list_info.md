@@ -1,15 +1,21 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[contract-list]]
 relations:: [[]]
 weight:: 10
 
-- ## Definition
+- ## 🔍 Definition
   - A contract list refers to a comprehensive inventory of all the agreements and legal obligations between a business and its stakeholders.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[contract-list/Strong contractual agreements]] [[**]] [[-+]]
+    key-weight:: 30
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   The concept of "Contract List" in business modeling refers to a comprehensive inventory of all the agreements, contracts, and legal obligations that exist between a business and its stakeholders. This list is a crucial component of a business's operational structure, as it outlines the nature of the relationships, the obligations each party has, and the legal implications of these agreements.
   
   The Contract List includes all types of agreements, such as service contracts, supplier agreements, partnership contracts, employment contracts, and lease agreements. It also shows the duration of these contracts, the terms and conditions, and the penalties for non-compliance or breach of contract.
@@ -19,7 +25,7 @@ weight:: 10
   The Contract List is a dynamic document that changes over time as the business enters into new contracts or existing ones expire. It is a crucial tool for operational planning and decision-making, as it provides a clear picture of the company's contractual obligations and the potential impact of these contracts on the business's operations and financial performance.
   
   In essence, the concept of "Contract List" in business modeling is about understanding and managing the contractual relationships of a company. This is a vital aspect of business design, as it directly impacts the company's operational efficiency, its legal and financial risks, and its ability to meet its obligations to its stakeholders.
-- ## Examples
+- ## 👉 Examples
   - ### contract-list/examples/Space X
     {{embed [[contract-list/examples/Space X]]}}
   - ### contract-list/examples/vein visualizer
@@ -31,12 +37,9 @@ weight:: 10
   - ### contract-list/examples/Underwater restaurant
     {{embed [[contract-list/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[contract-list/Strong contractual agreements]] [[**]] [[-+]]
-    key-weight:: 30
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Partnerships" component can be related to the contract list. This section outlines the network of suppliers and partners that make the business model work, which would include any contractual agreements or legal obligations between the business and its stakeholders.
   - [[Porter's Five Forces]]

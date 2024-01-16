@@ -1,3 +1,4 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-(id)/roles]]
@@ -5,16 +6,24 @@ item-classes:: #[[role]]
 relations:: [[segment (id)]] [[]]
 weight:: 30
 
-- ## Definition
+- ## 🔍 Definition
   - Roles involved in the purchasing decision of our product or service by the customers. For example, it can be the financial director, the technical director, a member of the core family, etcetera.
-- ## Content type (role)
+- ## 📰 Content type (role)
   - Content is of type list.
   
   - Content uses the following classes:
     - [[role]]
       - {{embed [[role]]}}
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If segment id___roles is defined as :Roles involved in the purchasing decision of our product or service by the customers. For example, it can be the financial director, the technical director, a member of the core family, etcetera., What could it be?- Who are the key stakeholders in our industry that we need to establish relationships with in order to fulfill our objectives?
+  - How can we identify potential partners or stakeholders who can help us achieve our business goals?
+  - What strategies can we implement to establish and maintain strong relationships with our key stakeholders?
+  - How can we leverage our relationships with stakeholders to gain a competitive advantage in the market?
+  - How can we ensure that our business is meeting the needs and objectives of our key stakeholders in a mutually beneficial way?
+- ## 📖 Description
   In business modeling, "segment (id)/roles" refers to the categorization of different groups within a business model based on their specific roles or functions. This concept is crucial in understanding the dynamics of a business and how different segments interact with each other and contribute to the overall functioning of the business.
   
   - Segment (id): This refers to the different divisions or departments within a business. Each segment has its own unique identity and role within the organization. For example, in a manufacturing company, segments could include production, marketing, sales, and customer service. Each of these segments has a specific role and contributes to the overall success of the business in different ways.
@@ -26,7 +35,7 @@ weight:: 30
   For example, a business may identify that the role of digital marketing is not being adequately covered within the marketing segment. This could lead to the creation of a new role or the expansion of an existing role to ensure that this function is effectively managed.
   
   In essence, the concept of segment (id)/roles is a fundamental aspect of business modeling, providing a clear structure and direction for the organization and contributing to its overall success and sustainability.
-- ## Examples
+- ## 👉 Examples
   - ### segment-(id)/roles/examples/Space X
     {{embed [[segment-(id)/roles/examples/Space X]]}}
   - ### segment-(id)/roles/examples/vein visualizer
@@ -38,11 +47,9 @@ weight:: 30
   - ### segment-(id)/roles/examples/Underwater restaurant
     {{embed [[segment-(id)/roles/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "Key Partnerships" and "Customer Segments" are two of the nine key components. The roles involved in the purchasing decision can be identified and analyzed within these components. For instance, the "Key Partnerships" can include those who influence the purchasing decision, while the "Customer Segments" can help identify the roles of different customers in the purchasing process.
   - [[Value Proposition Canvas]]

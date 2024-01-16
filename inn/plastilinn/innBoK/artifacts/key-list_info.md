@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[key-list]]
 relations:: [[]]
 weight:: 80
 
-- ## Definition
+- ## 🔍 Definition
   - A key list in the context of a business model refers to a prioritized set of essential elements or components.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type text.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If keys is defined as :, What could it be?- How have you identified and defined the specific customer groups that your startup will target?
+  - What methods or tools have you used to gather data and insights about these customer groups?
+  - How will you tailor your sales approaches to each specific customer group?
+  - What strategies or tactics will you employ to effectively reach and engage these customer groups?
+  - How will you measure the success and effectiveness of your sales strategy in targeting and converting these specific customer groups?
+- ## 📖 Description
   The concept of "Key List" in business modeling refers to a prioritized list of essential elements or components that are crucial to the operation and success of a business model. This list is often used as a guide or reference point in the development and execution of business strategies, ensuring that all important aspects are given due attention and consideration.
   
   A key list can include various elements depending on the nature of the business and its specific needs. For instance, it may include key resources such as human resources, financial resources, physical assets, and intellectual property. It may also include key activities that the business needs to perform to create and deliver its value proposition, such as production, marketing, sales, and customer service.
@@ -19,7 +28,7 @@ weight:: 80
   The key list serves as a comprehensive overview of the critical elements that make up a business model. It helps business leaders and stakeholders to understand the interdependencies between these elements and to make informed decisions about resource allocation, strategic partnerships, and customer engagement strategies.
   
   In conclusion, a key list is a vital tool in business design and modeling. It provides a clear and organized view of the essential components of a business model, facilitating effective planning, execution, and management of business strategies. It is a critical component of a successful business model, helping to ensure that all important aspects are adequately addressed and aligned with the business's overall objectives.
-- ## Examples
+- ## 👉 Examples
   - ### key-list/examples/Space X
     {{embed [[key-list/examples/Space X]]}}
   - ### key-list/examples/vein visualizer
@@ -31,11 +40,9 @@ weight:: 80
   - ### key-list/examples/Underwater restaurant
     {{embed [[key-list/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Key Activities" component can be seen as a key list. It refers to the most important things a company must do to make its business model work. These activities are crucial in delivering the company's value proposition, reaching markets, maintaining customer relationships, and earning revenues.
   - [[Value Proposition Canvas]]

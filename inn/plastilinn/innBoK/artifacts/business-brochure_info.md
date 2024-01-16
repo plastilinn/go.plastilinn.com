@@ -1,15 +1,24 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[business-brochure]]
 relations:: [[]]
 weight:: 20
 
-- ## Definition
+- ## 🔍 Definition
   - A business brochure is a marketing tool that outlines a company's products, services, and value proposition to potential customers.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type template.
   
-- ## Description
+- ## 🔑 Keys
+  
+- ## 🤖 innCoPilot
+  - If business brochure is defined as :A business brochure is a marketing tool that outlines a company's products, services, and value proposition to potential customers., What could it be?- How will our startup effectively communicate with our stakeholders, such as customers, investors, and partners?
+  - What communication channels and platforms should we use to reach our target audience?
+  - How can we ensure clear and consistent messaging across all communication channels?
+  - How will we measure the effectiveness of our communication strategies and adjust them accordingly?
+  - What steps can we take to build and maintain strong relationships with our stakeholders through effective communication?
+- ## 📖 Description
   The concept of "Business Brochure" in business modeling refers to a promotional document that provides an overview of a company's products or services, and its unique value proposition to potential customers. This tool is a key component in the marketing strategy of a business model, designed to attract and inform potential customers about what the company has to offer.
   
   A business brochure is a tangible representation of the company's brand and offerings. It typically includes information about the company's history, mission, and values, as well as detailed descriptions of its products or services. It may also include testimonials from satisfied customers, case studies demonstrating the effectiveness of the company's solutions, and contact information for further inquiries.
@@ -19,7 +28,7 @@ weight:: 20
   In addition to its role as a marketing tool, a business brochure can also serve as a tool for business modeling. It can help the company to define its value proposition, identify its target market, and develop its marketing strategy. It can also provide insights into the competitive landscape, helping the company to position itself effectively in the market.
   
   In conclusion, a business brochure is a versatile tool in business design and modeling. It serves as a marketing tool, a representation of the company's brand, and a source of insights for business modeling. It is a critical component of a successful business model, helping to attract and inform potential customers, and contributing to the company's overall marketing strategy.
-- ## Examples
+- ## 👉 Examples
   - ### business-brochure/examples/Space X
     {{embed [[business-brochure/examples/Space X]]}}
   - ### business-brochure/examples/vein visualizer
@@ -31,11 +40,9 @@ weight:: 20
   - ### business-brochure/examples/Underwater restaurant
     {{embed [[business-brochure/examples/Underwater restaurant]]}}
   
-- ## Keys
+- ## 🗄️ Topics
   
-- ## Topics
-  
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, the "Value Proposition" component is closely related to the business brochure. The value proposition outlines the unique selling points of a company's products or services, which are typically highlighted in a business brochure. The "Customer Segments" and "Channels" components also relate to the business brochure, as they define the target audience and how the company reaches them, respectively.
   - [[Marketing Mix]]

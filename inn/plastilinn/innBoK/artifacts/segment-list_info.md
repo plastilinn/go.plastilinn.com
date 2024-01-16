@@ -1,15 +1,23 @@
+icon:: 🧿
 page-type:: [[artifact info]]
 innbok-type:: internal
 metamodel-id:: [[segment-list]]
 relations:: [[]]
 weight:: 70
 
-- ## Definition
+- ## 🔍 Definition
   - A segment list refers to a categorized compilation of target customer groups based on shared characteristics or needs.
-- ## Content type ()
+- ## 📰 Content type 
   - Content is of type list.
   
-- ## Description
+- ## 🔑 Keys
+  - #key [[segment-list/Market expansion opportunities]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[segment-list/Diversified customer base]] [[**]] [[-+]]
+    key-weight:: 30
+- ## 🤖 innCoPilot
+  
+- ## 📖 Description
   In business modeling, a "segment list" refers to the categorization of a company's market into distinct subsets of consumers with common needs, characteristics, or behaviors. These segments can be defined based on various factors such as demographic, geographic, psychographic, and behavioral traits. 
   
   The segment list is a crucial component of business design as it helps businesses to better understand their target audience, tailor their products or services to meet specific customer needs, and develop targeted marketing strategies. It enables businesses to focus their resources on the most profitable segments, thereby maximizing their return on investment.
@@ -19,7 +27,7 @@ weight:: 70
   By understanding the unique needs and preferences of each segment, the retailer can design products that resonate with its target customers, create marketing messages that appeal to them, and deliver a shopping experience that meets their expectations. 
   
   In essence, a segment list is a powerful tool that enables businesses to create value for their customers, differentiate themselves from their competitors, and achieve sustainable growth. It is the foundation of customer-centric business design and a key driver of business success.
-- ## Examples
+- ## 👉 Examples
   - ### segment-list/examples/Space X
     {{embed [[segment-list/examples/Space X]]}}
   - ### segment-list/examples/vein visualizer
@@ -31,14 +39,9 @@ weight:: 70
   - ### segment-list/examples/Underwater restaurant
     {{embed [[segment-list/examples/Underwater restaurant]]}}
   
-- ## Keys
-  - #key [[segment-list/Market expansion opportunities]] [[***]] [[-+]]
-    key-weight:: 60
-  - #key [[segment-list/Diversified customer base]] [[**]] [[-+]]
-    key-weight:: 30
-- ## Topics
+- ## 🗄️ Topics
   
-- ## Tools
+- ## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "Customer Segments" is one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. It involves understanding the different needs, behaviors and other characteristics of these segments.
   - [[Value Proposition Canvas]]
